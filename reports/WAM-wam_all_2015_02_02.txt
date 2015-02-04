@@ -1,0 +1,178 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 2107
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 16
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-09 ; Times: 3
+	Date: 2015-01-12 ; Times: 9
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 2
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-26 ; Times: 6
+	Date: 2015-01-28 ; Times: 20
+	Date: 2015-01-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Setonix brachyurus mappable:1" ; Times: 1
+	Query: "aru" ; Times: 1
+	Query: "ANSP" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "dibamus" ; Times: 1
+	Query: ""Diceros bicornis" mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(14.987239525774257,101.2939453125))<100000" ; Times: 1
+	Query: "scandentia mappable:1" ; Times: 1
+	Query: "WAM Emoia" ; Times: 1
+	Query: "cyrtodactylus sermowaiensis" ; Times: 1
+	Query: "Kai Indonesia" ; Times: 1
+	Query: "country:"Solomon Islands" specificepithet:flavigularis genus:Emoia class:Reptilia" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "Aru Islands (Amphibia)" ; Times: 1
+	Query: "west java sunda type:specimen mappable:1" ; Times: 1
+	Query: "antoniorum" ; Times: 1
+	Query: "oxyeleotris" ; Times: 1
+	Query: "Macrotis lagotis mappable:1" ; Times: 2
+	Query: "Indonesia Reptilia (Kai OR Kei)" ; Times: 1
+	Query: "sphenomorphus oligolepis" ; Times: 2
+	Query: "eremiascincus emigrans" ; Times: 2
+	Query: "Pycnonotus taivanus" ; Times: 1
+	Query: "albomaculata" ; Times: 1
+	Query: "Echis carinata" ; Times: 1
+	Query: "aru island" ; Times: 7
+	Query: "eremiascincus antoniorum" ; Times: 1
+	Query: "Aru Islands (mammalia)" ; Times: 2
+	Query: "Stegastes acapulcoensis" ; Times: 1
+	Query: "emigrans" ; Times: 2
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "cyrtodactylus fumosus" ; Times: 1
+	Query: "Aru Islands (Aves)" ; Times: 1
+	Query: "septemstriatus" ; Times: 1
+	Query: "cylindrophis" ; Times: 2
+	Query: ""Orcinus orca" mappable:1" ; Times: 1
+	Query: "genus:bubalus" ; Times: 1
+	Query: "Ixos amaurotis" ; Times: 1
+	Query: "Aru (Reptilia)" ; Times: 1
+	Query: "saudi" ; Times: 1
+	Query: "fascicularis" ; Times: 1
+	Query: "Aru Islands (Reptilia)" ; Times: 3
+	Query: "WAM Kai" ; Times: 2
+	Query: ""Myrmecobius fasciatus" mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 445 download events in this period)
+Total number of records downloaded: 7801 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7783
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-08 ; Times: 3
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-14 ; Times: 2
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 3
+	Date: 2015-01-28 ; Times: 4
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "Furnariidae" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "amazona auropalliata" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "stateprovince:"Guadalcanal" country:"Solomon Islands" class:Reptilia" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "Diprotodontia mappable:1" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "Indonesia (Kai OR Kei) AND (NOT Aves NOT Mammalia)" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "Atelidae" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Andaman Aves" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "distance(location,geopoint(40.60387435807246,-73.85421752929688))<9650.626978131286" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "ceratobatrachidae country:"solomon islands"" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 38
+Total number of records downloaded: 7801
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 59
+Total number of records retrieved from searches: 2107
+Number of download events that retrieved data from the resource: 38
+Total number of records downloaded: 7801
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

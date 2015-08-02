@@ -1,0 +1,330 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 293
+Number of records retrieved in searches: 4743
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 2
+	Country: Germany ; Times: 33
+	Country: Guatemala ; Times: 6
+	Country: India ; Times: 2
+	Country: Italy ; Times: 9
+	Country: Japan ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Netherlands ; Times: 6
+	Country: Russia ; Times: 109
+	Country: Spain ; Times: 1
+	Country: Switzerland ; Times: 7
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 86
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 9
+	Date: 2015-07-02 ; Times: 8
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-04 ; Times: 2
+	Date: 2015-07-05 ; Times: 8
+	Date: 2015-07-06 ; Times: 35
+	Date: 2015-07-07 ; Times: 9
+	Date: 2015-07-08 ; Times: 23
+	Date: 2015-07-09 ; Times: 13
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 5
+	Date: 2015-07-14 ; Times: 13
+	Date: 2015-07-15 ; Times: 17
+	Date: 2015-07-16 ; Times: 9
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 11
+	Date: 2015-07-20 ; Times: 13
+	Date: 2015-07-21 ; Times: 9
+	Date: 2015-07-22 ; Times: 20
+	Date: 2015-07-23 ; Times: 18
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-25 ; Times: 11
+	Date: 2015-07-26 ; Times: 11
+	Date: 2015-07-27 ; Times: 9
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 6
+	Date: 2015-07-30 ; Times: 8
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cryptocentrus strigilliceps" ; Times: 2
+	Query: "specificepithet:caurinus genus:Notoryctes" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "chirocentrus dorab" ; Times: 1
+	Query: "hypsilurus" ; Times: 1
+	Query: "oreophryne" ; Times: 2
+	Query: "rubens" ; Times: 1
+	Query: "trachinotus botla" ; Times: 1
+	Query: "alepes kleinii" ; Times: 1
+	Query: "Callionymus persicus" ; Times: 2
+	Query: "genus:Myrmecobius" ; Times: 3
+	Query: "regalecus" ; Times: 1
+	Query: "lichmera lombokia" ; Times: 1
+	Query: "Cyclemys" ; Times: 1
+	Query: "scorpaenidae oman" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 2
+	Query: "phalotris" ; Times: 1
+	Query: "specificepithet:muelleri genus:sundamys" ; Times: 1
+	Query: "diodon liturosus" ; Times: 1
+	Query: "queketti" ; Times: 1
+	Query: "myron richardsonii" ; Times: 1
+	Query: "taeniata" ; Times: 2
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "carangoides equula" ; Times: 2
+	Query: "lobodon" ; Times: 2
+	Query: "Viverridae" ; Times: 1
+	Query: "squatina" ; Times: 1
+	Query: "sterna dougallii" ; Times: 8
+	Query: "arcygobius" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 3
+	Query: "drepane punctata" ; Times: 1
+	Query: "institutioncode:wam Probosciger" ; Times: 2
+	Query: "5851" ; Times: 1
+	Query: "Tinamotis ingoufi type:specimen" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "institutioncode:wam Calyptorhynchus" ; Times: 3
+	Query: "hylomys" ; Times: 2
+	Query: "cladorhynchus" ; Times: 2
+	Query: "alepes vari" ; Times: 1
+	Query: "Tinamotis ingoufi" ; Times: 1
+	Query: "thylacinus cynocephalus" ; Times: 5
+	Query: "lipocheilus" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 2
+	Query: "chaetodon nigropunctatus" ; Times: 1
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "archamia oman" ; Times: 1
+	Query: "amblygobius bahrain" ; Times: 1
+	Query: "Abditus" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 2
+	Query: "Valenciennea oman" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 1
+	Query: "Sarcoramphus papa country:"Brazil"" ; Times: 2
+	Query: "Lerista macropisthopus" ; Times: 3
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 2
+	Query: "encrasicholina devisi" ; Times: 2
+	Query: "mammoth cave" ; Times: 2
+	Query: "Boleophthalmus" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "uranoscopus oman" ; Times: 6
+	Query: "lobodon carcinophaga" ; Times: 1
+	Query: "apogon holotaenia" ; Times: 4
+	Query: "Callionymus marleyi" ; Times: 1
+	Query: "plagiotremus" ; Times: 2
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "thryssa setirostris" ; Times: 5
+	Query: "komodoensis" ; Times: 1
+	Query: "centriscus scutatus" ; Times: 1
+	Query: "camelidae" ; Times: 1
+	Query: "cyrtodactylus fumosus" ; Times: 2
+	Query: "macroscelides" ; Times: 1
+	Query: "cryptocentrus oman" ; Times: 2
+	Query: "Eudyptes moseleyi type:specimen" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 2
+	Query: "cuculus saturatus" ; Times: 2
+	Query: "millward" ; Times: 1
+	Query: "plectorhinchus pictus" ; Times: 1
+	Query: "siphamia oman" ; Times: 3
+	Query: "enigmaticus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "cheilodipterus lachneri oman" ; Times: 2
+	Query: "lophius" ; Times: 2
+	Query: "Regalecus" ; Times: 9
+	Query: "carangoides malabaricus" ; Times: 1
+	Query: "pentaprion longimanus" ; Times: 1
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "(Pareas)" ; Times: 3
+	Query: "Inglis" ; Times: 1
+	Query: "genus:Bunomys" ; Times: 1
+	Query: "Pygopus Western Australia" ; Times: 2
+	Query: "Eubalaena" ; Times: 1
+	Query: ""natalus mexicanus" country:"Mexico"" ; Times: 1
+	Query: "gobiidae oman" ; Times: 1
+	Query: "serranidae oman" ; Times: 1
+	Query: "sphenomorphus oligolepis" ; Times: 12
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "cynoglossus kopsii" ; Times: 1
+	Query: "apogon lineatus oman" ; Times: 1
+	Query: "Eutropis longicaudata" ; Times: 5
+	Query: "arnoglossus aspilos" ; Times: 1
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 2
+	Query: "rhinocerotidae" ; Times: 1
+	Query: "Cladorhynchus" ; Times: 4
+	Query: "institutioncode:wam Pezoporus" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 1
+	Query: "stigmatura" ; Times: 1
+	Query: "apogon fasciatus oman" ; Times: 1
+	Query: "minous oman" ; Times: 1
+	Query: "institutioncode:wam Calyptorhynchus banksii" ; Times: 2
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "Oreophryne" ; Times: 1
+	Query: "apogonidae oman" ; Times: 5
+	Query: "parablennius thysanius" ; Times: 1
+	Query: "PTEROPODIDAE gunnell institutioncode:wAM" ; Times: 1
+	Query: "apogon pseudotaeniatus" ; Times: 1
+	Query: "pellona ditchela" ; Times: 3
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "istigobius bahrain" ; Times: 1
+	Query: "odonus niger" ; Times: 1
+	Query: "ID 7218" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "canthigaster papua" ; Times: 2
+	Query: "cheilodipterus persicus" ; Times: 1
+	Query: "Eudyptes filholi type:specimen" ; Times: 1
+	Query: "Ctenophorus maculatus" ; Times: 5
+	Query: "erythrocles schlegelii" ; Times: 2
+	Query: "dendrocopos medius" ; Times: 7
+	Query: "gymnocaesio" ; Times: 1
+	Query: "asterropteryx oman" ; Times: 2
+	Query: "EONYCTERIS" ; Times: 1
+	Query: "cheilodipterus arabicus" ; Times: 2
+	Query: "jerdoni" ; Times: 1
+	Query: "chascanopsetta" ; Times: 1
+	Query: "Cyrtodactylus laevigatus" ; Times: 1
+	Query: "thryssa hamiltonii" ; Times: 2
+	Query: "sardinella melanura" ; Times: 1
+	Query: "BERUS" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "lichmera squamata" ; Times: 1
+	Query: "xenisthmus" ; Times: 1
+	Query: "lichmera flavicans" ; Times: 1
+	Query: "PTEROPODIDAE institutioncode:wAM" ; Times: 2
+	Query: "tsetse country:"zimbabwe"" ; Times: 2
+	Query: "wellsi" ; Times: 1
+	Query: "carangoides talamparoides" ; Times: 1
+	Query: "cheilodipterus macrodon oman" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "priolepis randalli" ; Times: 2
+	Query: "Thylacomyidae" ; Times: 1
+	Query: ""Pygopus lepidopodus"" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 2
+	Query: "Megalaspis" ; Times: 1
+	Query: "laevigatus" ; Times: 2
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "bathygobius meggitti" ; Times: 1
+	Query: "lobulogobius omanensis" ; Times: 1
+	Query: "class:Mammalia megaptera novaeangliae" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+	Query: "institutioncode:wam" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1084 download events in this period)
+Total number of records downloaded: 40098 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 39277
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: France ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 5
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: ""natalus mexicanus" country:"Mexico"" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "myron richardsonii" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "macroscelides" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: ""Glossophaga soricina" country:"Mexico"" ; Times: 2
+	Query: "namibia" ; Times: 1
+	Query: "PTEROPODIDAE gunnell institutioncode:wAM" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 735
+Total number of records retrieved from searches: 9902
+Number of download events that retrieved data from the resource: 239
+Total number of records downloaded: 286706
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 794
+Total number of records retrieved from searches: 12009
+Number of download events that retrieved data from the resource: 239
+Total number of records downloaded: 286706
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

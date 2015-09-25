@@ -1,0 +1,255 @@
+Report for Institution Code WAM, Resource MAMM
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 2042
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Benin ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 21
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: India ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: New Zealand ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 4
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 9
+	Date: 2015-08-06 ; Times: 10
+	Date: 2015-08-07 ; Times: 10
+	Date: 2015-08-08 ; Times: 6
+	Date: 2015-08-09 ; Times: 6
+	Date: 2015-08-10 ; Times: 11
+	Date: 2015-08-11 ; Times: 7
+	Date: 2015-08-12 ; Times: 5
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-18 ; Times: 6
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 2
+	Date: 2015-08-21 ; Times: 7
+	Date: 2015-08-22 ; Times: 5
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 4
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 9
+	Date: 2015-08-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "class:reptilia (La Fauna)" ; Times: 1
+	Query: "Padda oryzivora" ; Times: 1
+	Query: "little genus:Mus" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "gerygone dorsalis" ; Times: 3
+	Query: "manorina melanotis" ; Times: 2
+	Query: "salinarum" ; Times: 1
+	Query: "Wyulda squamicaudata" ; Times: 1
+	Query: ""rhina"" ; Times: 1
+	Query: "Cuculus lepidus type:specimen" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "dasyornis" ; Times: 2
+	Query: "specificepithet:megalotis genus:Hipposideros" ; Times: 5
+	Query: "amazona" ; Times: 1
+	Query: "Dama" ; Times: 1
+	Query: "varanus panoptes AND (NOT gouldii)" ; Times: 1
+	Query: "R40355" ; Times: 2
+	Query: "Notoryctes caurinus" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Ablennes hians" ; Times: 3
+	Query: "varanus panoptes" ; Times: 3
+	Query: "genus:paruromys" ; Times: 1
+	Query: "arctocephalus forsteri" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "4380" ; Times: 2
+	Query: "Bungarus" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 5
+	Query: "CM 9600" ; Times: 1
+	Query: "arctocephalus tropicalis" ; Times: 2
+	Query: "varanus giganteus" ; Times: 3
+	Query: "coturnix coturnix" ; Times: 3
+	Query: "ichthyophis glutinosus" ; Times: 3
+	Query: "5907" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "distance(location,geopoint(18.60460138845525,-111.02783203125))<100000" ; Times: 1
+	Query: ""acanthiza nana"" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "hesperoedura" ; Times: 1
+	Query: "neophoca cinerea" ; Times: 5
+	Query: "Lyncodon patagonicus" ; Times: 1
+	Query: "lombokia" ; Times: 1
+	Query: "institutioncode:WAM" ; Times: 1
+	Query: "eretmochelys imbricata bissa" ; Times: 2
+	Query: "Petrogale concinna" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "lichmera lombokia" ; Times: 2
+	Query: "coracina tenuirostris" ; Times: 3
+	Query: "hydrophis stokesii" ; Times: 1
+	Query: "rabosky" ; Times: 1
+	Query: "Padda oryzivora country:"India"" ; Times: 1
+	Query: "lichmera flavicans" ; Times: 1
+	Query: "eryx johni" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "sargocentron ittodai" ; Times: 1
+	Query: "Aepypodius bruijnii" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 1
+	Query: "pristigenys niphonia" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "isurus oxyrinchus" ; Times: 2
+	Query: "varanus giganteus institutioncode:wam" ; Times: 1
+	Query: "haliaeetus leucogaster" ; Times: 3
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "Myobatrachus gouldii" ; Times: 1
+	Query: "echis carinata" ; Times: 4
+	Query: "Acrochordus" ; Times: 1
+	Query: "neophoca" ; Times: 1
+	Query: "encrasicholina punctifer" ; Times: 1
+	Query: "zoothera dauma" ; Times: 1
+	Query: "pristigenys" ; Times: 2
+	Query: "lichenostomus fasciogularis" ; Times: 1
+	Query: "pomadasys kaakan" ; Times: 3
+	Query: "lichmera squamata" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "sedgwick" ; Times: 1
+	Query: "specificepithet:tristriatus genus:Funambulus" ; Times: 1
+	Query: "eryx conicus" ; Times: 2
+	Query: "microtus agrestis" ; Times: 1
+	Query: "Dasyurus hallucatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1138 download events in this period)
+Total number of records downloaded: 5039 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4629
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 6
+	Country: Chile ; Times: 8
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: New Zealand ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 8
+	Date: 2015-08-06 ; Times: 5
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 9
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 4
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 7
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 4
+	Date: 2015-08-29 ; Times: 3
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: ""eclectus"" ; Times: 2
+	Query: "microtus agrestis" ; Times: 1
+	Query: "didelphidae" ; Times: 2
+	Query: "country:"panama"" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "amazona" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "hydrophis stokesii" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "lichenostomus fasciogularis" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Aegothelidae" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "Didelphidae" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: "Struthio camelus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Ectopistes migratorius type:specimen" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "Dasyurus hallucatus" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: "Apteryx australis" ; Times: 1
+	Query: "paradisaeidae" ; Times: 1
+	Query: "Cracidae" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 129
+Total number of records retrieved from searches: 2042
+Number of download events that retrieved data from the resource: 60
+Total number of records downloaded: 5039
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 129
+Total number of records retrieved from searches: 2042
+Number of download events that retrieved data from the resource: 60
+Total number of records downloaded: 5039
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

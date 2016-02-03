@@ -1,0 +1,260 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1603
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 51
+	Country: Netherlands ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 3
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 83
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-30 ; Times: 9
+	Date: 2015-11-25 ; Times: 8
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 6
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 7
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 11
+	Date: 2015-11-27 ; Times: 10
+	Date: 2015-11-21 ; Times: 10
+	Date: 2015-11-22 ; Times: 10
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-09 ; Times: 10
+	Date: 2015-11-28 ; Times: 9
+	Date: 2015-11-29 ; Times: 9
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-03 ; Times: 3
+	Date: 2015-11-26 ; Times: 15
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 5
+	Date: 2015-11-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "corythoichthys amplexus" ; Times: 1
+	Query: "Tetrapturus" ; Times: 1
+	Query: "Scandentia" ; Times: 1
+	Query: "monodactylus oman" ; Times: 1
+	Query: "specificepithet:timoriensis class:Reptilia mappable:1" ; Times: 1
+	Query: "johnius borneensis" ; Times: 1
+	Query: "specificepithet:timoriensis class:Reptilia" ; Times: 1
+	Query: "cryptoblepharus metallicus" ; Times: 1
+	Query: "brachypterois oman" ; Times: 3
+	Query: "butastur teesa" ; Times: 1
+	Query: "Aspidites ramsayi" ; Times: 1
+	Query: "dermochelys coriacea -india" ; Times: 3
+	Query: "Chaperina" ; Times: 1
+	Query: "scorpaenidae oman" ; Times: 2
+	Query: "Broghammerus reticulatus" ; Times: 1
+	Query: "thamnaconus melanoproctes" ; Times: 3
+	Query: "acanthoplesiops indicus" ; Times: 5
+	Query: "scolopsis oman" ; Times: 2
+	Query: "Nyctixalus pictus sarawak" ; Times: 1
+	Query: "institutioncode:wam" ; Times: 3
+	Query: "nyctixalus (sarawak)" ; Times: 1
+	Query: "type:specimen (Pedionomus)" ; Times: 2
+	Query: "family:rhinocerotidae" ; Times: 1
+	Query: "chrysiptera unimaculata oman" ; Times: 1
+	Query: "thamnaconus oman" ; Times: 2
+	Query: "Thylacinus" ; Times: 2
+	Query: "paramonacanthus gulf" ; Times: 1
+	Query: "cephalopholis oman" ; Times: 1
+	Query: "pomacentrus leptus oman" ; Times: 1
+	Query: "SCANDENTIA" ; Times: 1
+	Query: "Tetrapturus angustirostris" ; Times: 2
+	Query: "sparidentex" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Tanygnathus)" ; Times: 3
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "argyrops oman" ; Times: 1
+	Query: "halicampus mataafae" ; Times: 1
+	Query: "Onychogalea lunata" ; Times: 1
+	Query: "ptereleotris microlepis" ; Times: 2
+	Query: "Antaresia stimsoni" ; Times: 1
+	Query: "Trigonocephalus" ; Times: 1
+	Query: "Leptoptilos dubius type:specimen" ; Times: 1
+	Query: "snyderina" ; Times: 1
+	Query: "monster" ; Times: 12
+	Query: "mystacina" ; Times: 1
+	Query: "uranoscopus oman" ; Times: 2
+	Query: "abudefduf oman" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "Leptoptilos dubius" ; Times: 2
+	Query: "genus:pelusios family:pelomedusidae AND (NOT subrufa)" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "sillago chondropus" ; Times: 1
+	Query: "Platalea flavipes" ; Times: 1
+	Query: "tonkin vietnam" ; Times: 1
+	Query: "parupeneus indicus" ; Times: 1
+	Query: "nemipterus oman" ; Times: 2
+	Query: "pomacentrus trichourus" ; Times: 1
+	Query: "chrysiptera oman" ; Times: 1
+	Query: "neopomacentrus sindensis" ; Times: 1
+	Query: "pomacentrus leptus" ; Times: 1
+	Query: "Gallicolumba" ; Times: 3
+	Query: "family:Rhinocerotidae" ; Times: 1
+	Query: "canthigaster oman" ; Times: 1
+	Query: "Amphibolurus norrisi" ; Times: 1
+	Query: "adelaidae" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "Antaresia childreni" ; Times: 1
+	Query: "Nyctixalus pictus" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "institutioncode:wam aves" ; Times: 1
+	Query: "mus castaneus" ; Times: 2
+	Query: "platycephalidae oman" ; Times: 3
+	Query: "nyctixalus (malaysia)" ; Times: 2
+	Query: "Lagorchestes leporides" ; Times: 1
+	Query: "dascyllus oman" ; Times: 1
+	Query: "pterois oman" ; Times: 3
+	Query: "minous oman" ; Times: 3
+	Query: "8298 fasciatus" ; Times: 1
+	Query: "bembrops" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 2
+	Query: "choridactylus oman" ; Times: 1
+	Query: "saurida gracilis" ; Times: 1
+	Query: "Spheniscus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (versicolor)" ; Times: 1
+	Query: "suezichthys" ; Times: 2
+	Query: "nemipterus zysron" ; Times: 1
+	Query: "saurida oman" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "saurida tumbil oman" ; Times: 1
+	Query: "Caloprymnus campestris" ; Times: 1
+	Query: "corythoichthys haematopterus" ; Times: 1
+	Query: "johnius belangerii" ; Times: 1
+	Query: "North Sulawesi class:Mammalia" ; Times: 1
+	Query: "gymnothorax phasmatodes" ; Times: 1
+	Query: "parapriacanthus" ; Times: 3
+	Query: "sylvia communis" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "sillago attenuata" ; Times: 1
+	Query: "aluterus monoceros" ; Times: 1
+	Query: "Siokunichthys bentuviai" ; Times: 1
+	Query: "epinephelus polylepis" ; Times: 2
+	Query: "zoothera dauma" ; Times: 1
+	Query: "notoscincus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes country:&#34;BRAZIL&#34; (LEUCOTIS)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 751 download events in this period)
+Total number of records downloaded: 50673
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 63
+	Country: Sweden ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 5
+	Date: 2015-11-30 ; Times: 7
+	Date: 2015-11-11 ; Times: 5
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 7
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-23 ; Times: 4
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 4
+	Date: 2015-11-29 ; Times: 2
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-25 ; Times: 8
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-01 ; Times: 3
+	Date: 2015-11-20 ; Times: 5
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eulamprus tympanum" ; Times: 1
+	Query: "acridotheres tristis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Amphibolurus norrisi" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Hemiphyllodactylus typus" ; Times: 1
+	Query: "metachirus" ; Times: 2
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "Rhipidura rufifrons" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "Aspidites ramsayi" ; Times: 1
+	Query: "Antaresia childreni" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Calamaria" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Broghammerus reticulatus" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Albericus variegatus" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "Antaresia stimsoni" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "Lagorchestes leporides" ; Times: 1
+	Query: "&#34;laticauda colubrina&#34; mappable:1" ; Times: 1
+	Query: "Bettongia gaimardi" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Sterna fuscata" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "bufo marinus" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Chaperina fusca" ; Times: 2
+	Query: "Acridotheres tristis" ; Times: 12
+	Query: "Mozambique Aves" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Hemiaspis signata" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;Sarawak&#34; country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "institutioncode:wam aves" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.

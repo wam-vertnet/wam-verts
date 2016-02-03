@@ -1,0 +1,239 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 1786
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Pakistan ; Times: 1
+	Country: Madagascar ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 49
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Canada ; Times: 2
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-07 ; Times: 6
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-04 ; Times: 8
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 3
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 7
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 10
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-16 ; Times: 9
+	Date: 2015-12-17 ; Times: 15
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-18 ; Times: 4
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "Rhina" ; Times: 1
+	Query: "Gehyra vorax" ; Times: 2
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "specificepithet:laevissimus genus:Nephrurus mappable:1" ; Times: 1
+	Query: "specificepithet:meyerii family:Cuculidae" ; Times: 1
+	Query: "sargocentron spiniferum" ; Times: 6
+	Query: "Calidris canutus" ; Times: 1
+	Query: "Lerista tridactyla" ; Times: 1
+	Query: "Lerista humphriesi" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Nephrurus laevissimus mappable:1" ; Times: 1
+	Query: "Aprasia parapulchella" ; Times: 1
+	Query: "mola ramsayi" ; Times: 2
+	Query: "bracteatus" ; Times: 1
+	Query: "B761" ; Times: 1
+	Query: "Emballonura alecto" ; Times: 1
+	Query: "monster" ; Times: 10
+	Query: "trimma wam saudi arabia" ; Times: 2
+	Query: "Saproscincus mustelinus" ; Times: 1
+	Query: "pseudocheilinus hexataenia wam" ; Times: 2
+	Query: "Remora australis" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 1
+	Query: "Aprasia smithi" ; Times: 1
+	Query: "Lerista zietzi" ; Times: 1
+	Query: "Liopholis striata" ; Times: 1
+	Query: "lutjanus fulviflamma wam australia" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "trimma tevegae saudi arabia" ; Times: 1
+	Query: "Ctenophorus mckenziei" ; Times: 1
+	Query: "torpedo" ; Times: 3
+	Query: "threskiornis molucca" ; Times: 2
+	Query: "lutjanus lutjanus wam" ; Times: 3
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Pachycephala olivacea" ; Times: 1
+	Query: "sargocentron spiniferum wam" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "Strophurus rankini" ; Times: 1
+	Query: "pseudocheilinus hexataenia wam indonesia" ; Times: 2
+	Query: "institutioncode:wam" ; Times: 1
+	Query: "chrysopelea" ; Times: 2
+	Query: "Lerista onsloviana" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "netta rufina india" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "sardinella gibbosa wam" ; Times: 1
+	Query: "Hemiergis quadrilineata" ; Times: 1
+	Query: "institutioncode:wam crocidura trichura" ; Times: 1
+	Query: "Lerista puncticauda" ; Times: 1
+	Query: "saturatus lepidus" ; Times: 1
+	Query: "pseudocheilinus hexataenia wam queensland" ; Times: 1
+	Query: "genus:Uperodon specificepithet:systoma" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "Draco lineatus" ; Times: 1
+	Query: "Lemur catta" ; Times: 1
+	Query: "institutioncode:wam paulamys" ; Times: 2
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (krameri)" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 2
+	Query: "Pterodroma cookii" ; Times: 3
+	Query: "trimma saudi arabia" ; Times: 1
+	Query: "Liopholis pulchra" ; Times: 1
+	Query: "trimma sheppardi" ; Times: 1
+	Query: "Strophurus assimilis" ; Times: 1
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "Williams 1955" ; Times: 2
+	Query: "Hemiergis millewae" ; Times: 1
+	Query: "wetmorella nigropinnata wam western australia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 889 download events in this period)
+Total number of records downloaded: 24177
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 8
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 3
+	Date: 2015-12-25 ; Times: 5
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-26 ; Times: 3
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-16 ; Times: 15
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 3
+	Date: 2015-12-18 ; Times: 9
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "Pogona vitticeps" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Ctenophorus femoralis" ; Times: 1
+	Query: "Lerista zonulata" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Lerista humphriesi" ; Times: 1
+	Query: "Ctenophorus scutulatus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Lerista praepedita" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Saproscincus mustelinus" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Aprasia repens" ; Times: 1
+	Query: "Lerista terdigitata" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Lucasium damaeum" ; Times: 1
+	Query: "Strophurus ciliaris" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Lucasium stenodactylum" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "carollia" ; Times: 1
+	Query: "Strophurus assimilis" ; Times: 1
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Nephrurus deleani" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Lerista onsloviana" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Aprasia striolata" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "Ctenophorus fionni" ; Times: 1
+	Query: "Hemiergis quadrilineata" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Tribolonotus pseudoponceleti" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Ctenophorus decresii" ; Times: 1
+	Query: "Hemiergis decresiensis" ; Times: 1
+	Query: "Liasis fuscus" ; Times: 1
+	Query: "Lucasium squarrosum" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis" ; Times: 2
+	Query: "scaphiopus" ; Times: 1
+	Query: "Lerista connivens" ; Times: 1
+	Query: "Liopholis pulchra" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Draco taeniopterus" ; Times: 1
+	Query: "Lerista wilkinsi" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Hemiergis millewae" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.

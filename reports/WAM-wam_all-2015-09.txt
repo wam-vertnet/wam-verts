@@ -1,0 +1,322 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 5568
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 146
+	Country: Australia ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 36
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 5
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-12 ; Times: 21
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-17 ; Times: 13
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-08 ; Times: 47
+	Date: 2015-09-30 ; Times: 11
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-06 ; Times: 15
+	Date: 2015-09-05 ; Times: 35
+	Date: 2015-09-04 ; Times: 9
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-27 ; Times: 3
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 9
+	Date: 2015-09-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:praefrontalis genus:lerista" ; Times: 1
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "Natalus mexicanus" ; Times: 3
+	Query: "Indotyphlops braminus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "Morelia carinata" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "&#34;Stenella longirostris&#34; mappable:1" ; Times: 1
+	Query: "geranium" ; Times: 2
+	Query: "bryx" ; Times: 1
+	Query: "ablepharus kitaibelii" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Paragobiodon xanthosomus" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "Feia" ; Times: 1
+	Query: "specificepithet:muelleri genus:lerista" ; Times: 2
+	Query: "sagittarius" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "Varanus bengalensis" ; Times: 1
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "M8132" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "poiana mappable:1" ; Times: 1
+	Query: "specificepithet:quadrivincula genus:lerista" ; Times: 1
+	Query: "echis carinata" ; Times: 4
+	Query: "stahl" ; Times: 1
+	Query: "lerista clara" ; Times: 3
+	Query: "tyto longimembris" ; Times: 3
+	Query: "Chelodina burrungandjii" ; Times: 3
+	Query: "specificepithet:amicorum genus:lerista" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "lerista bunglebungle" ; Times: 1
+	Query: "darmandvillei" ; Times: 1
+	Query: "chamaeleo zeylanicus" ; Times: 2
+	Query: "Chelodina canni" ; Times: 3
+	Query: "Cyclodomorphus island" ; Times: 1
+	Query: "Dugong dugon mappable:1" ; Times: 1
+	Query: "Lerista nevinae" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "cosmocampus banneri" ; Times: 2
+	Query: "Cuniculus" ; Times: 1
+	Query: "viverricula" ; Times: 1
+	Query: "Paragobiodon xanthosomus Indonesia" ; Times: 1
+	Query: "monster" ; Times: 18
+	Query: "Elseya dentata" ; Times: 2
+	Query: "Pseudemydura" ; Times: 1
+	Query: "Myrmecobius fasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:rolfei genus:lerista" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "darmandvillei genus:cyrtodactylus class:reptilia" ; Times: 1
+	Query: "Pelusios subniger" ; Times: 1
+	Query: "cyrtodactylus fumosus" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Chelodina walloyarrina" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "minous monodactylus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "Indotyphlops" ; Times: 2
+	Query: "Cyclodomorphus branchialis" ; Times: 1
+	Query: "darmandvillei class:reptilia" ; Times: 2
+	Query: "hypsilurus modestus" ; Times: 5
+	Query: "Lonchura oryzivora country:&#34;india&#34;" ; Times: 1
+	Query: "sphenomorphus meyeri" ; Times: 1
+	Query: "specificepithet:occulta genus:lerista" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "lycodon aulicus" ; Times: 2
+	Query: "type:specimen genus:Dasyornis" ; Times: 2
+	Query: "Balaenoptera mappable:1" ; Times: 1
+	Query: "Lerista micra" ; Times: 13
+	Query: "Monishia" ; Times: 2
+	Query: "Corucia" ; Times: 1
+	Query: "Geochelone gigantea" ; Times: 1
+	Query: "ichthyophis glutinosus" ; Times: 1
+	Query: "eryx johni" ; Times: 5
+	Query: "cosmocampus" ; Times: 1
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 2
+	Query: "Chelodina steindachneri" ; Times: 3
+	Query: "pavo cristatus" ; Times: 1
+	Query: "lerista amicorum" ; Times: 2
+	Query: "Solenostomus" ; Times: 3
+	Query: "septemstriatus" ; Times: 1
+	Query: "lerista kingi" ; Times: 5
+	Query: "Viverricula indica" ; Times: 2
+	Query: "eryx conicus" ; Times: 7
+	Query: "parvula" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.049505705))&lt;15000" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "Bellatorias" ; Times: 1
+	Query: "orcinus" ; Times: 1
+	Query: "miliaria calandra" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "egernia depressa" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "draco volans" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "Chelodina mccordi" ; Times: 1
+	Query: "Hexanchus" ; Times: 1
+	Query: "anabas" ; Times: 3
+	Query: "dendrelaphis pictus" ; Times: 2
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "geminatus" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "pristis zijsron" ; Times: 1
+	Query: "Chelodina colliei" ; Times: 7
+	Query: "distance(location,geopoint(-7.692846071854518,139.10888671875))&lt;100000" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "Python sebae" ; Times: 2
+	Query: "Calyptorhynchus baudinii" ; Times: 2
+	Query: "&#34;lng:&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "megaptera" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "specificepithet:verhmens genus:lerista" ; Times: 1
+	Query: "syngnathoides biaculeatus" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "fumosus class:reptilia" ; Times: 4
+	Query: "Chelodina expansa" ; Times: 3
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 111 (out of 1045 download events in this period)
+Total number of records downloaded: 23540
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 20
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 6
+	Country: United States ; Times: 63
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-10 ; Times: 11
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 5
+	Date: 2015-09-16 ; Times: 10
+	Date: 2015-09-17 ; Times: 8
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 10
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-05 ; Times: 11
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-08 ; Times: 11
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Indotyphlops braminus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "geranium" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "penguin" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "specificepithet:muelleri genus:lerista" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "litoria eucnemis" ; Times: 1
+	Query: "Emydura victoriae" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Chelodina burrungandjii" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Prasinohaema" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Myrmecobius fasciatus mappable:1" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "darmandvillei class:reptilia" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Haplonycteris fischeri" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Necturus" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Viverricula indica" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "litoria thesaurensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Morehead" ; Times: 1
+	Query: "Phascolarctos cinereus mappable:1" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "callosciurus erythraeus" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Manis gigantea" ; Times: 1
+	Query: "fumosus class:reptilia" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "Manis temminckii" ; Times: 1
+	Query: "Chelodina colliei" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Scaphiopus" ; Times: 3
+	Query: "bufo marinus" ; Times: 1
+	Query: "Chelodina steindachneri" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Chelodina expansa" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "PNG" ; Times: 2
+
+
+End of report.

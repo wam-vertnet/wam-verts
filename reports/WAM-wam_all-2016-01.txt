@@ -1,0 +1,194 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 983
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Denmark ; Times: 20
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 42
+	Country: Switzerland ; Times: 2
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-28 ; Times: 6
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-22 ; Times: 27
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 7
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 6
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gazella" ; Times: 1
+	Query: "egregius" ; Times: 1
+	Query: "myoictis melas" ; Times: 1
+	Query: "Aeluroscalabotes felinus" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 2
+	Query: "distance(location,geopoint(22.289036,-113.867516))&lt;15000" ; Times: 1
+	Query: "stegonotus florensis" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "stegonotus" ; Times: 2
+	Query: "leptobrachella" ; Times: 1
+	Query: "anas eatoni" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "genus:Equus" ; Times: 1
+	Query: "amnh 4115" ; Times: 1
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:aquilonius" ; Times: 1
+	Query: "Synodus fuscus" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 2
+	Query: "wetmorella tanakai" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "type:specimen specificepithet:erythrurus genus:Coelognathus" ; Times: 1
+	Query: "genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:Turdidae (poliocephalus)" ; Times: 2
+	Query: "Pachycephala leucogastra" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "monster" ; Times: 11
+	Query: "Intellagama lesueurii" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "homalopsidae" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "Synodus doaki" ; Times: 2
+	Query: "eryx" ; Times: 1
+	Query: "Goodall" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "cercamia eremia" ; Times: 2
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "minous" ; Times: 3
+	Query: "Pachycephala nudigula" ; Times: 1
+	Query: "sundamys" ; Times: 1
+	Query: "gempylus serpens" ; Times: 1
+	Query: "WAM M33490" ; Times: 1
+	Query: "lophozosterops superciliaris" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Galea" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:albipes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 507 download events in this period)
+Total number of records downloaded: 1222
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-03 ; Times: 6
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:sutor" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:wilsmorei" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.

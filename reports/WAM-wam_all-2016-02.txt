@@ -1,0 +1,198 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 2310
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 63
+	Country: Netherlands ; Times: 5
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Arab Emirates ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Russia ; Times: 31
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 15
+	Date: 2016-02-08 ; Times: 10
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-13 ; Times: 9
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 9
+	Date: 2016-02-15 ; Times: 5
+	Date: 2016-02-03 ; Times: 4
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 5
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 4
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 10
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "bucharest" ; Times: 1
+	Query: "rhabdamia cypselurus" ; Times: 7
+	Query: "Istiophoridae" ; Times: 1
+	Query: "Ophiodon elongatus" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 2
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "fowleria" ; Times: 1
+	Query: "Lichmera lombokia" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 1
+	Query: "sarcogyps calvus" ; Times: 1
+	Query: "tinamotis ingoufi" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Diomedea steadi" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "plecotus auritus" ; Times: 2
+	Query: "Orcinus orca" ; Times: 2
+	Query: "cercamia eremia wam" ; Times: 1
+	Query: "Porichthys notatus" ; Times: 1
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "wam p25787" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "genus:Atrichornis" ; Times: 1
+	Query: "ptilinopus wallacii" ; Times: 2
+	Query: "cactorum brazil" ; Times: 1
+	Query: "cercamia wam" ; Times: 12
+	Query: "1900 jackson" ; Times: 1
+	Query: "ardeola speciosa" ; Times: 1
+	Query: "Phalacrocorax verrucosus" ; Times: 1
+	Query: "Diomedea cauta" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "Carlia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "wetmorella tanakai" ; Times: 1
+	Query: "Megastictus" ; Times: 1
+	Query: "cuculus lepidus" ; Times: 3
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "treron floris" ; Times: 1
+	Query: "mammoth cave" ; Times: 3
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "(aberdare)" ; Times: 1
+	Query: "emydocephalus" ; Times: 1
+	Query: "Sebastes maliger" ; Times: 1
+	Query: "Scaphiopus intermontanus Nevada" ; Times: 2
+	Query: "parapriacanthus" ; Times: 1
+	Query: "homalopsidae" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "cercamia" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "Sebastes auriculatus" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Caperea marginata" ; Times: 1
+	Query: "paragobiodon melanosoma" ; Times: 1
+	Query: "felis catus type:specimen" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "Borneo Rodentia" ; Times: 3
+	Query: "Sebastes mystinus" ; Times: 1
+	Query: "Synodus sageneus" ; Times: 1
+	Query: "Sebastes serriceps" ; Times: 1
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "Anthornis" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "Meliphaga reticulata" ; Times: 2
+	Query: "lepidopus" ; Times: 1
+	Query: "Sebastes paucispinis" ; Times: 1
+	Query: "duttaphrynus melanostictus" ; Times: 2
+	Query: "varanus salvator" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "aepypodius bruijnii" ; Times: 1
+	Query: "todiramphus australasia institutioncode:wam" ; Times: 1
+	Query: "genus:Cyclorana specificepithet:maini" ; Times: 1
+	Query: "trimma tevegae wam" ; Times: 4
+	Query: "Hydrophis inornatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 512 download events in this period)
+Total number of records downloaded: 1201
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-19 ; Times: 5
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "stegonotus" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Aves Andaman" ; Times: 1
+	Query: "Borneo Muridae" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+
+
+End of report.

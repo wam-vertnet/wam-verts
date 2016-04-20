@@ -1,0 +1,103 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 328
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 15
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-02 ; Times: 6
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "rhabdamia cypselurus" ; Times: 3
+	Query: "rhabdamia cypselurus wam" ; Times: 1
+	Query: "rhabdamia" ; Times: 3
+	Query: "genus:Duttaphrynus specificepithet:melanostictus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 3
+	Query: "Gerbillurus tytonis" ; Times: 1
+	Query: "Eutropis rugifera" ; Times: 1
+	Query: "genus:rhinolophus order:chiroptera class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 1
+	Query: "mesoplodon" ; Times: 2
+	Query: "Calliophis" ; Times: 1
+	Query: "uropterygius polyspilus" ; Times: 2
+	Query: "VIPERA" ; Times: 2
+	Query: "N. McIntyre" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Antimora" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "dendrocitta formosa" ; Times: 1
+	Query: "specificepithet:meyeri genus:Lenomys" ; Times: 1
+	Query: "dasycottus setiger" ; Times: 1
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "Gymnothorax rueppelliae" ; Times: 1
+	Query: "Gerbillurus setzeri" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "Wetmorella tanakai" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 230 download events in this period)
+Total number of records downloaded: 718
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "leontopithecus chrysomelas" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Indian Cove" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.

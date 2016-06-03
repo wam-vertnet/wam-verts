@@ -1,0 +1,163 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 2070
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 79
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 9
+	Date: 2016-05-09 ; Times: 5
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 8
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-27 ; Times: 4
+	Date: 2016-05-31 ; Times: 46
+	Date: 2016-05-23 ; Times: 9
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "Numida" ; Times: 1
+	Query: "Myzomela nigrita" ; Times: 2
+	Query: "Ocreatus" ; Times: 3
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "stegonotus florensis" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "cylindrophiidae" ; Times: 2
+	Query: "Paulamys" ; Times: 1
+	Query: "pseudocheilinus hexataenia rom" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "uropeltidae" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Cacophis harriettae" ; Times: 3
+	Query: "Dimetrodon" ; Times: 2
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "rge" ; Times: 1
+	Query: "WAM-M6634" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "indotyphlops braminus" ; Times: 1
+	Query: "Phyllopteryx taeniolatus" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "Aipysurus tenuis" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "parapriacanthus" ; Times: 4
+	Query: "Nebrius" ; Times: 2
+	Query: "institutioncode:wam" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 10
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "Ctenotus lancelini" ; Times: 1
+	Query: "ostorhinchus fasciatus" ; Times: 1
+	Query: "Bancroft AND Island" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 2
+	Query: "lycodon capucinus" ; Times: 2
+	Query: "ninox obscura" ; Times: 1
+	Query: "gbifdatasetid:7c93d290-6c8b-11de-8226-b8a03c50a862" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 2
+	Query: "Pedionomus torquatus" ; Times: 1
+	Query: "Anguis" ; Times: 3
+	Query: "Myiagra ruficollis" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 2
+	Query: "raptors" ; Times: 1
+	Query: "trematomus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 327 download events in this period)
+Total number of records downloaded: 14313
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 43
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-31 ; Times: 39
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "gasterosteus" ; Times: 1
+	Query: "Litoria angiana" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Aipysurus tenuis" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.

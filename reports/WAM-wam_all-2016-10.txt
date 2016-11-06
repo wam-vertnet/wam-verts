@@ -1,0 +1,57 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 267
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 3
+	Date: 2016-10-31 ; Times: 6
+	Date: 2016-10-04 ; Times: 7
+	Date: 2016-10-05 ; Times: 2
+	Date: 2016-10-11 ; Times: 3
+	Date: 2016-10-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Setonix brachyurus mappable:1" ; Times: 3
+	Query: "Nyctereutes procyonoides mappable:0" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "specificepithet:lepturus genus:Trichiurus mappable:1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: " Nyctereutes procyonoides" ; Times: 2
+	Query: "Nyctereutes procyonoides " ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: " Nyctereutes procyonoides 1" ; Times: 3
+	Query: "specificepithet:belone genus:Belone mappable:1" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus mappable:1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "specificepithet:latifasciatus genus:Epinephelus mappable:1" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia mappable:1" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon mappable:1" ; Times: 1
+	Query: "Carcharodon carcharias mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.

@@ -1,0 +1,645 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 896
+Number of records retrieved in searches: 11931
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 18
+	Country: Portugal ; Times: 182
+	Country: Mexico ; Times: 108
+	Country: Denmark ; Times: 124
+	Country: Singapore ; Times: 4
+	Country: Czechia ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 14
+	Country: Colombia ; Times: 17
+	Country: Unknown ; Times: 6
+	Country: China ; Times: 3
+	Country: United States ; Times: 390
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 13
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-03 ; Times: 16
+	Date: 2018-02-02 ; Times: 34
+	Date: 2018-02-01 ; Times: 12
+	Date: 2018-02-07 ; Times: 7
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-05 ; Times: 149
+	Date: 2018-02-04 ; Times: 57
+	Date: 2018-02-21 ; Times: 35
+	Date: 2018-02-20 ; Times: 122
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 27
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-27 ; Times: 145
+	Date: 2018-02-26 ; Times: 42
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 6
+	Date: 2018-02-16 ; Times: 108
+	Date: 2018-02-17 ; Times: 10
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 51
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-18 ; Times: 12
+	Date: 2018-02-19 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Nyctophilus heran " ; Times: 1
+	Query: "Schismatogobius marmoratus mappable:1" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "Lentipes watsoni mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;37db5218-30a2-470f-b9d1-3ac4010a3d16&#34;" ; Times: 4
+	Query: "Todiramphus chloris mappable:1" ; Times: 3
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "draco reticulatus" ; Times: 3
+	Query: "pareas" ; Times: 1
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 2
+	Query: "specificepithet:maccormicki class:aves" ; Times: 3
+	Query: "elanus caeruleus" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "locality:skokholm" ; Times: 1
+	Query: "Amandava subflava mappable:1" ; Times: 5
+	Query: "iptrecordid:&#34;b6da1014-7051-4e85-a8ae-f7d767383b5d&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;09a801c4-4c79-408b-910a-cdd1190a81a9&#34;" ; Times: 4
+	Query: "Naso sp." ; Times: 2
+	Query: "pterois volitans" ; Times: 5
+	Query: "Pteropus chrysoproctus " ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 6
+	Query: "Brachypteryx montana" ; Times: 3
+	Query: "Platycercus eximius mappable:1" ; Times: 3
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Lagenodelphis hosei " ; Times: 1
+	Query: "Eclectus roratus mappable:1" ; Times: 3
+	Query: "Tetracerus quadricornis" ; Times: 1
+	Query: "Rattus feliceus " ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Nyctimene keasti " ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 5
+	Query: "Lentipes dimetrodon mappable:1" ; Times: 1
+	Query: "Pseudohydromys fuscus " ; Times: 1
+	Query: "Rousettus spinalatus " ; Times: 1
+	Query: "Hesperoptenus blanfordi " ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:wallace" ; Times: 2
+	Query: "Acanthurus blochii mappable:1" ; Times: 2
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "grypus" ; Times: 1
+	Query: "polypteriformes" ; Times: 1
+	Query: "Sminthopsis butleri " ; Times: 1
+	Query: "Stenogobius beauforti mappable:1" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 5
+	Query: "litoria lutea mappable:1" ; Times: 2
+	Query: "Pteropus lombocensis " ; Times: 1
+	Query: "family:Leiognathidae continent:Africa" ; Times: 2
+	Query: "Pseudomys chapmani " ; Times: 1
+	Query: "scientificname:&#34;coelops frithii&#34;" ; Times: 1
+	Query: "Sicyopus discordipinnis mappable:1" ; Times: 1
+	Query: "Biziura lobata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Taphozous achates " ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 2
+	Query: "class:aves (A22163)" ; Times: 2
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "Nymphicus hollandicus mappable:1" ; Times: 3
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "scientificname:&#34;halophryne ocellatus&#34;" ; Times: 1
+	Query: "Tadorna variegata mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;035c47e1-5736-44bd-bdd7-d2e50c86268d&#34;" ; Times: 4
+	Query: "Pterois volitans" ; Times: 22
+	Query: "class:aves (A32823)" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 2
+	Query: "scientificname:&#34;enneanectes reticulatus&#34;" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "Pseudomys occidentalis " ; Times: 1
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 1
+	Query: "scientificname:&#34;rhinolophus luctus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;e6e4c9e1-eba7-4d95-8d03-62cdd734fbcd&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;3703ef88-c744-4b53-9ac0-614949f509a0&#34;" ; Times: 4
+	Query: "Amandava amandava mappable:1" ; Times: 9
+	Query: "Platycercus adelaidae mappable:1" ; Times: 3
+	Query: "&#34;Oreochromis mossambicus&#34;" ; Times: 1
+	Query: "Dobsonia exoleta " ; Times: 1
+	Query: "Maxomys hellwaldii " ; Times: 1
+	Query: "Dromedary" ; Times: 1
+	Query: "genus:rhipidura class:aves (A24442) institutioncode:WAM" ; Times: 1
+	Query: "bubalus depressicornis" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 21
+	Query: "Phoniscus jagorii " ; Times: 1
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "Myotis ridleyi " ; Times: 1
+	Query: "Stiphodon weberi mappable:1" ; Times: 1
+	Query: "scientificname:&#34;balaenoptera bonaerensis&#34;" ; Times: 1
+	Query: "Lentipes multiradiatus mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;340b83c3-c115-40dc-8e8f-4c240b9ca167&#34;" ; Times: 4
+	Query: "Dobsonia viridis " ; Times: 1
+	Query: "Megaerops niphanae " ; Times: 1
+	Query: "scientificname:&#34;hipposideros dyacorum&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "Stiphodon semoni mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;9a1fa9a9-b776-457a-89c2-21f490a2decb&#34;" ; Times: 4
+	Query: "Pteropus melanotus " ; Times: 1
+	Query: "Zyzomys woodwardi " ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "iptrecordid:&#34;934567ee-e940-49b6-a352-448636b5a418&#34;" ; Times: 2
+	Query: "Rousettus celebensis " ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 4
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Nesokia" ; Times: 1
+	Query: "iptrecordid:&#34;b20b5411-c383-4851-9f11-cc0f9e1e05a9&#34;" ; Times: 2
+	Query: "Ctenochaetus cyanocheilus" ; Times: 1
+	Query: "Long Island varanus" ; Times: 1
+	Query: "Stiphodon elegans mappable:1" ; Times: 1
+	Query: "Chenonetta jubata mappable:1" ; Times: 4
+	Query: "Naso tonganus" ; Times: 1
+	Query: "scientificname:&#34;megaerops niphanae&#34;" ; Times: 1
+	Query: "Dicky" ; Times: 1
+	Query: "Gerbillurus setzeri " ; Times: 1
+	Query: "Acanthurus grammoptilus" ; Times: 2
+	Query: "Lathamus discolor mappable:1" ; Times: 3
+	Query: "Acerodon mackloti " ; Times: 1
+	Query: "Lerista apoda" ; Times: 2
+	Query: "Naso annulatus mappable:1" ; Times: 1
+	Query: "Rattus timorensis " ; Times: 1
+	Query: "Lagostrophus fasciatus " ; Times: 1
+	Query: "Gracula religiosa mappable:1" ; Times: 4
+	Query: "Psittacula krameri mappable:1" ; Times: 3
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Radjah radjah mappable:1" ; Times: 5
+	Query: "Carcharhinus longimanus" ; Times: 19
+	Query: "queensland museum dasyurus" ; Times: 1
+	Query: "Neochmia ruficauda mappable:1" ; Times: 4
+	Query: "Scotophilus collinus " ; Times: 1
+	Query: "Pycnonotus jocosus mappable:1" ; Times: 4
+	Query: "Leporillus apicalis " ; Times: 1
+	Query: "Apodemus draco " ; Times: 1
+	Query: "Naso unicornis mappable:1" ; Times: 1
+	Query: "scientificname:&#34;anilios grypus&#34;" ; Times: 1
+	Query: "EBU" ; Times: 1
+	Query: "Rattus hainaldi " ; Times: 1
+	Query: "Sminthopsis longicaudata " ; Times: 1
+	Query: "dasyurus geoffroii" ; Times: 3
+	Query: "scientificname:&#34;ricuzenius pinetorum&#34;" ; Times: 1
+	Query: "Bettongia" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "scientificname:&#34;cynopterus titthaecheilus&#34;" ; Times: 1
+	Query: "Rhinolophus creaghi " ; Times: 1
+	Query: "Rhincodon typus" ; Times: 6
+	Query: "Polypteriformes" ; Times: 2
+	Query: "Pteropus keyensis " ; Times: 1
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34;" ; Times: 1
+	Query: "varanus island papua" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Otomops johnstonei " ; Times: 1
+	Query: "Rhinolophus borneensis " ; Times: 1
+	Query: "specificepithet:splendens genus:tachyoryctes country:&#34;kenya&#34; institutioncode:WAM" ; Times: 1
+	Query: "scientificname:&#34;dobsonia pannietensis&#34;" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Glossogobius aureus mappable:1" ; Times: 1
+	Query: "Glossogobius koragensis mappable:1" ; Times: 1
+	Query: "Stenogobius laterisquamatus mappable:1" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Sicyopterus cynocephalus mappable:1" ; Times: 1
+	Query: "Balaenoptera bonaerensis " ; Times: 1
+	Query: "Cygnus atratus mappable:1" ; Times: 4
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "Diomedea nigripes" ; Times: 1
+	Query: "prionace glauca" ; Times: 2
+	Query: "Zyzomys palatalis " ; Times: 1
+	Query: "Syconycteris carolinae " ; Times: 1
+	Query: "Cereopsis novaehollandiae mappable:1" ; Times: 4
+	Query: "Crocidura trichura " ; Times: 1
+	Query: "Geopelia striata mappable:1" ; Times: 4
+	Query: "Kerivoula papillosa " ; Times: 1
+	Query: "Paulamys naso " ; Times: 1
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "Dobsonia peronii " ; Times: 1
+	Query: "Amytornis housei" ; Times: 1
+	Query: "Oxyura australis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "calcarifer" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Anas rhynchotis mappable:1" ; Times: 3
+	Query: "pygoscelis papua" ; Times: 2
+	Query: "zosterops grayi" ; Times: 2
+	Query: "order:Squamata country:&#34;India&#34;" ; Times: 1
+	Query: "Scotophilus borbonicus " ; Times: 1
+	Query: "Psittacula eupatria mappable:1" ; Times: 4
+	Query: "Sminthopsis gilberti " ; Times: 1
+	Query: "grampus griseus" ; Times: 3
+	Query: "Dasyurus geoffroii" ; Times: 12
+	Query: "torpedinidae" ; Times: 1
+	Query: "Neophema pulchella mappable:1" ; Times: 3
+	Query: "Trichoglossus haematodus mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;a934def6-5d09-49d2-8eda-ac460620cdae&#34;" ; Times: 4
+	Query: "scientificname:&#34;cochleoceps viridis&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "Stiphodon rutilaureus mappable:1" ; Times: 1
+	Query: "Glossogobius giuris" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 1
+	Query: "class:aves (A19137)" ; Times: 1
+	Query: "Murina suilla " ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "Papagomys armandvillei " ; Times: 1
+	Query: "Ningaui timealeyi " ; Times: 1
+	Query: "Glossogobius celebius mappable:1" ; Times: 2
+	Query: "Aethalops aequalis " ; Times: 1
+	Query: "Dendrocygna javanica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diomedea epomophora epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Parantechinus apicalis " ; Times: 1
+	Query: "eryx" ; Times: 1
+	Query: "Geopelia cuneata mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;433387ac-7c6a-4972-ab35-384c0697d08b&#34;" ; Times: 4
+	Query: "Platycercus icterotis mappable:1" ; Times: 3
+	Query: "Aplonis metallica mappable:1" ; Times: 4
+	Query: "Hipposideros sumbae " ; Times: 1
+	Query: "Melomys bannisteri " ; Times: 1
+	Query: "Baiyankamys shawmayeri " ; Times: 1
+	Query: "Cynopterus nusatenggara " ; Times: 1
+	Query: "Numenius madagascariensis" ; Times: 4
+	Query: "Glossogobius brunnoides mappable:1" ; Times: 1
+	Query: "Erythrura gouldiae mappable:1" ; Times: 3
+	Query: "Acanthurus blochii" ; Times: 2
+	Query: "Pseudomys fieldi " ; Times: 1
+	Query: "Macroscelidea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis ater " ; Times: 1
+	Query: "Hipposideros madurae " ; Times: 1
+	Query: "Zebrasoma scopas" ; Times: 1
+	Query: "Naso annulatus" ; Times: 1
+	Query: "iptrecordid:&#34;f934b468-43ad-4916-9d74-e7cd7bfd4a5e&#34;" ; Times: 4
+	Query: "Cynopterus minutus " ; Times: 1
+	Query: "Sminthopsis granulipes " ; Times: 1
+	Query: "zosterops albogularis" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Vespadelus douglasorum " ; Times: 1
+	Query: "scientificname:&#34;axoclinus nigricaudus&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Lonchura punctulata mappable:1" ; Times: 4
+	Query: "Maxomys bartelsii " ; Times: 1
+	Query: "Cacatua sulphurea mappable:1" ; Times: 3
+	Query: "Pseudohydromys ellermani " ; Times: 1
+	Query: "Glossogobius giuris mappable:1" ; Times: 7
+	Query: "class:aves (A19407)" ; Times: 1
+	Query: "scientificname:&#34;ecsenius namiyei&#34;" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 3
+	Query: "Sicyopterus pugnans mappable:1" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "psammogobius biocellatus" ; Times: 1
+	Query: "Coturnix novaezelandiae" ; Times: 1
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Sminthopsis psammophila " ; Times: 1
+	Query: "Cacatua goffini mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;6bd0334a-46b0-418b-8e0a-4fe4f7a7dde0&#34;" ; Times: 4
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "Epomophorus crypturus " ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 18
+	Query: "genus:rhipidura class:aves (A22704) institutioncode:WAM" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "scientificname:&#34;rhinolophus canuti&#34;" ; Times: 1
+	Query: "Liopholis kintorei" ; Times: 1
+	Query: "specificepithet:conditor genus:Leporillus" ; Times: 1
+	Query: "poecilia vivipara" ; Times: 1
+	Query: "iptrecordid:&#34;54dd0ec6-9c54-4b25-8de1-bfbdc63859b4&#34;" ; Times: 2
+	Query: "dermopterus mappable:1" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "Amblygobius phalaena" ; Times: 4
+	Query: "Equus asinus" ; Times: 2
+	Query: "Naso maculatus" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 1
+	Query: "Naso tuberosus" ; Times: 3
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;10e36e09-290a-4cc6-a296-3dec0fb8915c&#34;" ; Times: 4
+	Query: "Dyacopterus spadiceus " ; Times: 1
+	Query: "Rattus novaeguineae " ; Times: 1
+	Query: "Pseudantechinus ningbing " ; Times: 1
+	Query: "A2220" ; Times: 1
+	Query: "Acanthurus albipectoralis" ; Times: 1
+	Query: "Psittacus erithacus mappable:1" ; Times: 3
+	Query: "synodus indicus" ; Times: 1
+	Query: "R51328" ; Times: 2
+	Query: "grampus" ; Times: 1
+	Query: "class:aves (A32823) institutioncode:WAM" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;eac8a846-0739-44f5-a029-35d82f87ca94&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;65d8e996-3cae-4283-b8a5-389613a0ec24&#34;" ; Times: 4
+	Query: "Naso fageni" ; Times: 2
+	Query: "iptrecordid:&#34;54968b30-1618-4a2e-b3bc-904bd01df5b4&#34;" ; Times: 4
+	Query: "scientificname:&#34;epomophorus minor&#34;" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 3
+	Query: "Stenogobius genivittatus mappable:1" ; Times: 1
+	Query: "Miniopterus shortridgei " ; Times: 1
+	Query: "class:aves (A32821)" ; Times: 1
+	Query: "Ia io " ; Times: 1
+	Query: "scientificname:&#34;rhinolophus creaghi&#34;" ; Times: 1
+	Query: "(ott)" ; Times: 1
+	Query: "Padda oryzivora mappable:1" ; Times: 3
+	Query: "genus:rhipidura class:aves (A24503) institutioncode:WAM" ; Times: 1
+	Query: "Naso fageni mappable:1" ; Times: 2
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platycercus zonarius mappable:1" ; Times: 3
+	Query: "Stenogobius hoesei mappable:1" ; Times: 1
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "Styloctenium wallacei " ; Times: 1
+	Query: "Awaous ocellaris mappable:1" ; Times: 1
+	Query: "Ctenochaetus truncatus" ; Times: 1
+	Query: "Eos squamata mappable:1" ; Times: 3
+	Query: "Pseudantechinus roryi " ; Times: 1
+	Query: "Etrumeus teres" ; Times: 2
+	Query: "Awaous stamineus mappable:1" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "Megaerops kusnotoi " ; Times: 1
+	Query: "genus:rhipidura class:aves (A24890) institutioncode:WAM" ; Times: 1
+	Query: "Ocyphaps lophotes mappable:1" ; Times: 4
+	Query: "scientificname:&#34;rhinolophus celebensis&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;e432f069-b575-43c2-8f25-6ad74406efa9&#34;" ; Times: 4
+	Query: "genus:rhipidura class:aves institutioncode:WAM" ; Times: 2
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Anas castanea mappable:1" ; Times: 4
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melomys aerosus " ; Times: 1
+	Query: "Hipposideros ridleyi " ; Times: 1
+	Query: "scientificname:&#34;cochleoceps bassensis&#34;" ; Times: 1
+	Query: "Pseudantechinus woolleyae " ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 2
+	Query: "scientificname:&#34;nautichthys pribilovius&#34;" ; Times: 1
+	Query: "scientificname:&#34;acerodon celebensis&#34;" ; Times: 1
+	Query: "metynnis" ; Times: 1
+	Query: "Cacatua galerita mappable:1" ; Times: 3
+	Query: "Bungarus caeruleus" ; Times: 5
+	Query: "Acanthurus guttatus mappable:1" ; Times: 2
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 2
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 2
+	Query: "Pteropus personatus " ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Komodomys rintjanus " ; Times: 1
+	Query: "Thalassarche carteri" ; Times: 2
+	Query: "Murina rozendaali " ; Times: 1
+	Query: "iptrecordid:&#34;5d703201-da83-4861-a0d4-1643174c612e&#34;" ; Times: 4
+	Query: "heleia crassirostris" ; Times: 2
+	Query: "Amblygobius nocturnus" ; Times: 7
+	Query: "iptrecordid:&#34;5e18246a-a179-44a9-845b-6fc48bed272d&#34;" ; Times: 4
+	Query: "Naso brevirostris mappable:1" ; Times: 2
+	Query: "Trichoglossus moluccanus mappable:1" ; Times: 3
+	Query: "Taeniopygia bichenovii mappable:1" ; Times: 4
+	Query: "Threskiornis molucca mappable:1" ; Times: 4
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "Rhinolophus luctus " ; Times: 1
+	Query: "Kerivoula flora " ; Times: 1
+	Query: "Glossogobius concavifrons mappable:1" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "Amytornis woodwardi" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "Dobsonia pannietensis " ; Times: 1
+	Query: "Glossogobius circumspectus mappable:1" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "Prionurus microlepidotus" ; Times: 1
+	Query: "Tadorna radjah mappable:1" ; Times: 3
+	Query: "Glossogobius hoesei mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 2
+	Query: "Acerodon celebensis " ; Times: 2
+	Query: "Komodo" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "ramsden" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "scientificname:&#34;draco dussumieri&#34;" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "scientificname:&#34;crocodilichthys gracilis&#34;" ; Times: 1
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "Poephila acuticauda mappable:1" ; Times: 4
+	Query: "Pteropus griseus " ; Times: 1
+	Query: "Taeromys celebensis " ; Times: 1
+	Query: "lophozosterops superciliaris" ; Times: 2
+	Query: "Hipposideros dyacorum " ; Times: 1
+	Query: "lophozosterops dohertyi" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 1
+	Query: "Stenogobius watsoni mappable:1" ; Times: 1
+	Query: "brongersmai" ; Times: 1
+	Query: "Acanthurus albipectoralis mappable:1" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Sicyopterus lagocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "Rhinolophus canuti " ; Times: 1
+	Query: "genus:rhipidura class:aves (A23884) institutioncode:WAM" ; Times: 1
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;e20ca0df-ff1f-48bd-9fff-8314f5074830&#34;" ; Times: 4
+	Query: "Notoryctes caurinus " ; Times: 1
+	Query: "Anas eatoni basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinolophus celebensis " ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 2
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "specificepithet:splendens genus:tACHYORYCTES country:&#34;KENYA&#34; institutioncode:WAM" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "iptrecordid:&#34;b3031c22-d189-4229-990a-edf738e5c808&#34;" ; Times: 2
+	Query: "Sardinella lemuru" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 1
+	Query: "dromedary" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 2
+	Query: "Melomys howi " ; Times: 1
+	Query: "Ziphius cavirostris" ; Times: 1
+	Query: "Glossogobius bicirrhosus mappable:1" ; Times: 1
+	Query: "specificepithet:dryas genus:rhipidura class:aves institutioncode:WAM" ; Times: 1
+	Query: "iptrecordid:&#34;c06d5dcb-e651-46c7-b7d2-135afaedf39d&#34;" ; Times: 4
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "scientificname:&#34;posidonichthys hutchinsi&#34;" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "Naso tonganus mappable:1" ; Times: 1
+	Query: "Trionyx sinensis mappable:1" ; Times: 5
+	Query: "Glossogobius bulmeri mappable:1" ; Times: 1
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 3
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "scientificname:&#34;andamia tetradactylus&#34;" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 2
+	Query: "Psephotus haematonotus mappable:1" ; Times: 3
+	Query: "scientificname:&#34;anilios leptosoma&#34;" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "Melomys cooperae " ; Times: 1
+	Query: "Pterois Volitans" ; Times: 2
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "iptrecordid:&#34;f37cbab5-0fa7-4ca5-b55c-801bfa843fa8&#34;" ; Times: 4
+	Query: "acipenseriformes" ; Times: 1
+	Query: "python sebae" ; Times: 2
+	Query: "Coelops frithii " ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 2
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1892 download events in this period)
+Total number of records downloaded: 6781
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: India ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 77
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 6
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-06 ; Times: 21
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-01 ; Times: 21
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-05 ; Times: 10
+	Date: 2018-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:plumifera genus:Geophaps" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Eurostopodus" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Larus fuscus" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "specificepithet:roseicapilla genus:Cacatua" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "specificepithet:kuhlii genus:Scotophilus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves (Jammu)" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "order:Rodentia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "Nesokia" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+
+
+End of report.

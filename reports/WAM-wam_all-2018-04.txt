@@ -1,0 +1,231 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1574
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 65
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 10
+	Country: Unknown ; Times: 29
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 5
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 5
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 10
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 31
+	Date: 2018-04-05 ; Times: 9
+	Date: 2018-04-04 ; Times: 7
+	Date: 2018-04-07 ; Times: 3
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-12 ; Times: 11
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 8
+	Date: 2018-04-11 ; Times: 8
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-17 ; Times: 15
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "hydrophis ornatus" ; Times: 5
+	Query: "Phoxophrys" ; Times: 1
+	Query: "disaster" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 2
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:Felis" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "&#34;gobio gobio&#34;" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Buteo leucorrhous" ; Times: 2
+	Query: "genus:squatina" ; Times: 1
+	Query: "catalognumber:R153377" ; Times: 1
+	Query: "specificepithet:calyptratus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "hankinson" ; Times: 1
+	Query: "specificepithet:reticulatus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Paulamys" ; Times: 1
+	Query: "Dactylopsila trivirgata mappable:1" ; Times: 5
+	Query: "grampus" ; Times: 1
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "Eubalaena" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "WAM R109947" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "beagle" ; Times: 1
+	Query: "Komodomys" ; Times: 1
+	Query: "Tandanus bostocki" ; Times: 1
+	Query: "sphyrna zygaena" ; Times: 1
+	Query: "Junco insularis" ; Times: 4
+	Query: "stingray" ; Times: 1
+	Query: "specificepithet:radiata genus:Pterois" ; Times: 1
+	Query: "Sphenomorphidae" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 2
+	Query: "liza carinata" ; Times: 1
+	Query: "wallacei" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 4
+	Query: "monster" ; Times: 1
+	Query: "amethistina" ; Times: 6
+	Query: "Monopterus albus" ; Times: 2
+	Query: "scientificname:(Polyodon spathula) country:United States mappable:1" ; Times: 1
+	Query: "laetior" ; Times: 1
+	Query: "lobodon" ; Times: 2
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 1
+	Query: "pachycephala leucogastra" ; Times: 1
+	Query: "Anas eatoni basisofrecord:PreservedSpecimen hastissue:0" ; Times: 2
+	Query: "institutioncode:wam" ; Times: 1
+	Query: "Apogon doryssa" ; Times: 1
+	Query: "junco insularis" ; Times: 3
+	Query: "sphenomorphidae" ; Times: 3
+	Query: "Raptors" ; Times: 1
+	Query: "stateprovince:&#34;WA&#34;" ; Times: 1
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "sundatyphlops" ; Times: 1
+	Query: "specificepithet:Catus genus:Felis" ; Times: 1
+	Query: "Papagomys" ; Times: 1
+	Query: "bubalus bubalis" ; Times: 2
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "Anas castanea basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "sphenomorphus vanheurni" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "specificepithet:snowi" ; Times: 1
+	Query: "allenichthys glauerti" ; Times: 1
+	Query: "wam ficedula hyperythra" ; Times: 1
+	Query: "corvus splendens" ; Times: 3
+	Query: "institutioncode:wam Probosciger" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus country:&#34;Australia&#34;" ; Times: 1
+	Query: "amnh mus musculus" ; Times: 1
+	Query: "phycodurus eques" ; Times: 1
+	Query: "white shark" ; Times: 1
+	Query: "family:typhlopidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "sphenomorphus multisquamatus" ; Times: 1
+	Query: "specificepithet:splendens genus:Tachyoryctes country:&#34;Kenya&#34;" ; Times: 1
+	Query: "Tachyoryctes splendens" ; Times: 1
+	Query: "genus:Kaloula specificepithet:baleata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1359 download events in this period)
+Total number of records downloaded: 1640
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 26
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "Holochilus" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "Tolypeutes" ; Times: 1
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "specificepithet:splendens genus:Tachyoryctes country:&#34;Kenya&#34;" ; Times: 1
+	Query: "locality:armidale country:&#34;australia&#34;" ; Times: 1
+
+
+End of report.

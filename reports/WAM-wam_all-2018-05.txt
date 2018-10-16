@@ -1,0 +1,229 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 6121
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 13
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Norway ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Germany ; Times: 4
+	Country: United States ; Times: 128
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-23 ; Times: 25
+	Date: 2018-05-24 ; Times: 26
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-27 ; Times: 4
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-04 ; Times: 5
+	Date: 2018-05-05 ; Times: 5
+	Date: 2018-05-02 ; Times: 8
+	Date: 2018-05-03 ; Times: 8
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 11
+	Date: 2018-05-16 ; Times: 25
+	Date: 2018-05-11 ; Times: 9
+	Date: 2018-05-10 ; Times: 5
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Orcaella" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Anarhynchus frontalis" ; Times: 1
+	Query: "specificepithet:nigrita class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 1
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:sundana genus:Metaphrynella institutioncode:WAM" ; Times: 3
+	Query: "brama dussumieri" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:WAM" ; Times: 3
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "specificepithet:pennanti genus:Funambulus mappable:1" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:WAM" ; Times: 3
+	Query: "equus quagga" ; Times: 1
+	Query: "tandanus tandanus" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:tricolor genus:Perissocephalus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "specificepithet:brevirostris genus:Orcaella" ; Times: 6
+	Query: "specificepithet:carens genus:Schismaderma institutioncode:WAM" ; Times: 3
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "Indirana" ; Times: 6
+	Query: "specificepithet:salmini genus:Limnodynastes institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:eupatria genus:Psittacula mappable:1" ; Times: 1
+	Query: "genus:cylindrophis" ; Times: 1
+	Query: "gomezi" ; Times: 3
+	Query: "Junco insularis" ; Times: 4
+	Query: "locality:McKay" ; Times: 1
+	Query: "specificepithet:hosii genus:Odorrana institutioncode:WAM" ; Times: 3
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "genus:Pachycephala locality:Kai" ; Times: 2
+	Query: "specificepithet:splendens genus:Corvus mappable:1" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Duttaphrynus institutioncode:WAM" ; Times: 3
+	Query: "koopman" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:parina genus:Xenodacnis" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:systoma genus:Uperodon institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:maini genus:Cyclorana institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:limnocharis genus:Fejervarya institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:laticeps genus:Limnonectes institutioncode:WAM" ; Times: 3
+	Query: "Platyplectrum spenceri" ; Times: 1
+	Query: "specificepithet:castaneus genus:Mus" ; Times: 1
+	Query: "ara ararauna" ; Times: 1
+	Query: "Phylloscopus affinis india" ; Times: 1
+	Query: "chinchilla" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "gerygone tenebrosa" ; Times: 2
+	Query: "Cettia vulcania wam" ; Times: 1
+	Query: "specificepithet:latopalmatus genus:Staurois institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:fusca genus:Chaperina institutioncode:WAM" ; Times: 3
+	Query: "Orcaella brevirostris" ; Times: 5
+	Query: "Paramelomys lorentzii" ; Times: 1
+	Query: "bos gaurus" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 2
+	Query: "Pitta erythrogaster" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "specificepithet:gouldii genus:Myobatrachus institutioncode:WAM" ; Times: 3
+	Query: "P45" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "morelia amethistina" ; Times: 6
+	Query: "mola" ; Times: 1
+	Query: "genus:Probosciger" ; Times: 1
+	Query: "specificepithet:kubori genus:Nyctimystes institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:krameri genus:Psittacula mappable:1" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:WAM" ; Times: 3
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "specificepithet:plumbea genus:Diglossa" ; Times: 1
+	Query: "specificepithet:aterrimus genus:Probosciger" ; Times: 1
+	Query: "bullfinch" ; Times: 1
+	Query: "Neotrygon" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "specificepithet:cyanophlyctis genus:Euphlyctis institutioncode:WAM" ; Times: 3
+	Query: "eutropis carinata" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:annectens genus:Microhyla institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:hosii genus:Pedostibes institutioncode:WAM" ; Times: 3
+	Query: "specificepithet:amandava genus:Amandava mappable:1" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1178 download events in this period)
+Total number of records downloaded: 2348
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-18 ; Times: 8
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Orcinus orca" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "Phylloscopus trochiloides OR occipitalis OR affinis OR humei OR reguloides OR pulcher OR chloronotus OR maculipennis vntype:specimen" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.

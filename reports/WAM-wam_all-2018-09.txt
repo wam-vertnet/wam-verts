@@ -1,0 +1,224 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 2086
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Iran ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 57
+	Country: Denmark ; Times: 3
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 79
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: China ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-23 ; Times: 6
+	Date: 2018-09-24 ; Times: 22
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-20 ; Times: 22
+	Date: 2018-09-21 ; Times: 8
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-05 ; Times: 16
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 13
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 17
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 20
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-27 ; Times: 20
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "003-95" ; Times: 1
+	Query: "Lepidopus manis" ; Times: 10
+	Query: "Aipysurus fuscus" ; Times: 1
+	Query: "nk 7956" ; Times: 2
+	Query: "specificepithet:melanotis genus:oriolus" ; Times: 3
+	Query: "Pteropus griseus" ; Times: 3
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Lepidopus" ; Times: 1
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "catalognumber:R113 institutioncode:WAM" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "Cryptoblepharus pulcher clarus" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "globicephala macrorhynchus" ; Times: 2
+	Query: "country:&#34;Australia&#34; recordedby:Saunders" ; Times: 2
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 30
+	Query: "lepidopus manis" ; Times: 1
+	Query: "Pygoscelis papua" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "Opostomias micripnus" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "Homalopsidae" ; Times: 1
+	Query: "pareatidae" ; Times: 2
+	Query: "funambulus" ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "specificepithet:multiporosa genus:Gehyra institutioncode:WAM" ; Times: 1
+	Query: "electra" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "lophozosterops superciliaris" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "amytornis whitei" ; Times: 2
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 7
+	Query: "Aipysurus" ; Times: 2
+	Query: "Megachasma pelagios" ; Times: 6
+	Query: "eidolon" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "eidolon helvum" ; Times: 6
+	Query: "aneichardi" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Vipera berus" ; Times: 2
+	Query: "sterna dougallii" ; Times: 2
+	Query: "monopterus" ; Times: 1
+	Query: "catalognumber:R113727 institutioncode:WAM" ; Times: 2
+	Query: "specificepithet:nigrovittatus genus:Callosciurus" ; Times: 2
+	Query: "specificepithet:kingii genus:Chlamydosaurus catalognumber:R151776 institutioncode:WAM" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "diceros" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 2
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:WAM" ; Times: 1
+	Query: "macroscelides" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "macropygia emiliana" ; Times: 2
+	Query: "class:Aves recordedby:Hoare" ; Times: 1
+	Query: "amytornis modestus" ; Times: 9
+	Query: "corvus splendens" ; Times: 2
+	Query: "genus:Sousa" ; Times: 2
+	Query: "Indotyphlops braminus" ; Times: 3
+	Query: "melithreptus chloropsis" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "specificepithet:kingii genus:Chlamydosaurus institutioncode:WAM" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "Pteropus vampyrus" ; Times: 2
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "FMNH 1034" ; Times: 2
+	Query: "white shark" ; Times: 13
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 846 download events in this period)
+Total number of records downloaded: 1165
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 9
+	Date: 2018-09-27 ; Times: 12
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Arctocephalus mappable:1" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "pareatidae" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "lupus dingo" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Funambulus tristriatus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "genus:Pteropus country:&#34;Vanuatu&#34;" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.

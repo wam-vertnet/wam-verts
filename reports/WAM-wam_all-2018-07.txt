@@ -1,0 +1,244 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 2062
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: India ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 13
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 29
+	Country: Japan ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United States ; Times: 83
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-28 ; Times: 7
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 3
+	Date: 2018-07-09 ; Times: 4
+	Date: 2018-07-04 ; Times: 4
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 10
+	Date: 2018-07-21 ; Times: 6
+	Date: 2018-07-26 ; Times: 11
+	Date: 2018-07-27 ; Times: 8
+	Date: 2018-07-24 ; Times: 33
+	Date: 2018-07-25 ; Times: 6
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-12 ; Times: 12
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 11
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-30 ; Times: 5
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-22 ; Times: 3
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-20 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "2020 psittacidae" ; Times: 1
+	Query: "1196 psittacidae" ; Times: 1
+	Query: "genus:Orcaella" ; Times: 2
+	Query: "Stercorarius longicaudus mappable:1" ; Times: 1
+	Query: "L.E. Allen" ; Times: 2
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "Cyclemys" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "AM 3468" ; Times: 1
+	Query: "genus:colaptes country:&#34;cuba&#34;" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Oceanites oceanicus mappable:1" ; Times: 1
+	Query: "specificepithet:formosa genus:amandava" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Sitta europaea germany" ; Times: 2
+	Query: "amandava formosa" ; Times: 1
+	Query: "aipysurus" ; Times: 2
+	Query: "Orcinus" ; Times: 2
+	Query: "sphoeroides pachygaster" ; Times: 2
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "E.M. Cornwall" ; Times: 2
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Catharacta maccormicki mappable:1" ; Times: 1
+	Query: "genus:Grantiella" ; Times: 1
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "Melanotaenia australis" ; Times: 2
+	Query: "3704 aves psittacidae" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 3
+	Query: "Tringa melanoleuca mappable:1" ; Times: 1
+	Query: "Cetorhinus" ; Times: 1
+	Query: "Australia sordidus class:Aves" ; Times: 1
+	Query: "Nycteris javanica" ; Times: 5
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "pyrrhura leucotis" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "brunei" ; Times: 1
+	Query: "Setonix brachyurus 4813" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; recordedby:wallace" ; Times: 7
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:WAM" ; Times: 1
+	Query: "Calidris canutus mappable:1" ; Times: 1
+	Query: "7803 psittaciformes" ; Times: 1
+	Query: "Schultze" ; Times: 1
+	Query: "Maxomys" ; Times: 2
+	Query: "genus:Bronchocela country:&#34;Indonesia&#34;" ; Times: 2
+	Query: "Hemidactylus platyurus" ; Times: 3
+	Query: "Regina York" ; Times: 5
+	Query: "Anguis" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 4
+	Query: "Calidris bairdii mappable:1" ; Times: 1
+	Query: "recordedby:Nuttall" ; Times: 1
+	Query: "Pachycephala pectoralis fuliginosa" ; Times: 1
+	Query: "6352 psittaciformes" ; Times: 1
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "lonchura quinticolor" ; Times: 1
+	Query: "broghammerus" ; Times: 1
+	Query: "Pterois antennata" ; Times: 2
+	Query: "aves 7892" ; Times: 1
+	Query: "Tringa flavipes mappable:1" ; Times: 1
+	Query: "lycodon aulicus" ; Times: 1
+	Query: "genus:Chelidoperca" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 1
+	Query: "genus:erythrura class:aves country:&#34;australia&#34;" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "order:Squamata country:&#34;India&#34;" ; Times: 2
+	Query: "c 5862" ; Times: 1
+	Query: "Australia specificepithet:sordidus class:Aves" ; Times: 1
+	Query: "psittacidae 3418" ; Times: 5
+	Query: "uperodon systoma" ; Times: 3
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "chiropodomys" ; Times: 1
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "Actitis macularius mappable:1" ; Times: 2
+	Query: "genus:Scotophilus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "uperodon" ; Times: 1
+	Query: "7966 psittaciformes" ; Times: 2
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "hydrophis major" ; Times: 2
+	Query: "specificepithet:javanica genus:Nycteris order:Chiroptera" ; Times: 1
+	Query: "Pseudorabdion" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "1196 p" ; Times: 1
+	Query: "Calidris himantopus mappable:1" ; Times: 1
+	Query: "emydocephalus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "hydrophis fasciatus" ; Times: 1
+	Query: "hutchinsi" ; Times: 4
+	Query: "2534 psittacidae" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "vipera berus" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "Calidris virgata mappable:1" ; Times: 1
+	Query: "eubalaena australis" ; Times: 3
+	Query: "Calidris fuscicollis mappable:1" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "midas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 977 download events in this period)
+Total number of records downloaded: 986
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 6
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 4
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-31 ; Times: 4
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Caloenas" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Hemidactylus platyurus" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.

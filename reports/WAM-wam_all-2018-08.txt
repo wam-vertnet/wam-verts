@@ -1,0 +1,270 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 4893
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 143
+	Country: Germany ; Times: 10
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 17
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: France ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 5
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-09 ; Times: 19
+	Date: 2018-08-14 ; Times: 5
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-12 ; Times: 6
+	Date: 2018-08-13 ; Times: 6
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-02 ; Times: 5
+	Date: 2018-08-08 ; Times: 10
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 4
+	Date: 2018-08-27 ; Times: 64
+	Date: 2018-08-26 ; Times: 5
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 29
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 12
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 3
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 6
+	Date: 2018-08-01 ; Times: 10
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "specificepithet:mirus genus:Mesoplodon" ; Times: 2
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Duttaphrynus melanostictus mappable:1" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 3
+	Query: "Acerodon" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "genus:Dicaeum institutioncode:WAM" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Rhinecanthus verrucosus" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "campbelli" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 3
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "Goura victoria" ; Times: 2
+	Query: "CM 9631" ; Times: 1
+	Query: "r57046" ; Times: 1
+	Query: "genus:rhipidura (norfolk) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "occidentalis queensland" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "ara ararauna" ; Times: 1
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 2
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "emoia flavigularis" ; Times: 2
+	Query: "Nycteris javanica" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 1
+	Query: "Equus quagga" ; Times: 1
+	Query: "argyrogaster" ; Times: 1
+	Query: "class:aves recordedby:handley" ; Times: 1
+	Query: "Varanus salvator vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "elapidae institutioncode:WAM" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "ARA ARARAUNA" ; Times: 4
+	Query: "Varanus salvator" ; Times: 2
+	Query: "specificepithet:maculipectus genus:rhipidura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ingerophrynus" ; Times: 1
+	Query: "class:Mammalia country:&#34;brunei&#34;" ; Times: 5
+	Query: "Boidae institutioncode:WAM" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "DOL" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "genus:Myobatrachus specificepithet:gouldii" ; Times: 1
+	Query: "KUDA" ; Times: 1
+	Query: "natator depressus" ; Times: 3
+	Query: "Hydrophis institutioncode:WAM" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "bicarinatus" ; Times: 1
+	Query: "Pelamis (Japan)" ; Times: 1
+	Query: "Sufflamen fraenatus mappable:1" ; Times: 1
+	Query: "Pterois antennata" ; Times: 17
+	Query: "picta victoria" ; Times: 1
+	Query: "Sufflamen frenatus" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "saxatilis order:anura" ; Times: 1
+	Query: "specificepithet:tragula genus:Upeneus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "B-3403" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Pterois volitans" ; Times: 21
+	Query: "Pseudobalistes flavimarginatus" ; Times: 1
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "country:&#34;bahrain&#34;" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 2
+	Query: "NK 7395" ; Times: 1
+	Query: "Motacilla flava KAshmir" ; Times: 1
+	Query: "Abyssus" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 4
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "allenichthys glauerti" ; Times: 15
+	Query: "melithreptus chloropsis" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Lates calcarifer" ; Times: 2
+	Query: "Broghammerus" ; Times: 1
+	Query: "specificepithet:cirrhifer genus:Stephanolepis" ; Times: 2
+	Query: "Xanthichthys lineopunctatus" ; Times: 1
+	Query: "Sufflamen fraenatus" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "locality:inscription" ; Times: 1
+	Query: "specificepithet:pardalis genus:Cantherhines" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Funambulus pennanti" ; Times: 1
+	Query: "genus:Dicaeum country:&#34;Indonesia&#34; catalognumber:A22871 institutioncode:WAM" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Bungarus" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "morelia amethistina" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Xanthichthys mento" ; Times: 1
+	Query: "specificepithet:bensasi genus:Upeneus" ; Times: 2
+	Query: "Testudo graeca" ; Times: 1
+	Query: "specificepithet:euteles genus:Trichoglossus" ; Times: 2
+	Query: "Melanotaenia maccullochi" ; Times: 1
+	Query: "genus:Dicaeum country:&#34;Indonesia&#34; institutioncode:WAM" ; Times: 1
+	Query: "iNSCRIPTION" ; Times: 2
+	Query: "Sufflamen frenatus mappable:1" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "specificepithet:cyanomos genus:Neopomacentrus" ; Times: 1
+	Query: "specificepithet:gouldiae genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 3
+	Query: "beebei" ; Times: 2
+	Query: "2130 WAM" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "specificepithet:chinensis genus:sousa" ; Times: 2
+	Query: "crayfish" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1416 download events in this period)
+Total number of records downloaded: 1884
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 7
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-28 ; Times: 1
+	Date: 2018-08-01 ; Times: 8
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pelamis (Japan)" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "allenichthys glauerti" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "ingerophrynus" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+
+
+End of report.

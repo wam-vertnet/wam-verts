@@ -1,0 +1,259 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 336
+Number of records retrieved in searches: 3382
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 282
+	Country: Australia ; Times: 6
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Finland ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 137
+	Date: 2018-06-20 ; Times: 32
+	Date: 2018-06-08 ; Times: 9
+	Date: 2018-06-22 ; Times: 6
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 8
+	Date: 2018-06-13 ; Times: 78
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 12
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 7
+	Date: 2018-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "A. bernieri" ; Times: 2
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 4
+	Query: "FMNH 3714" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Acanthurus blochii" ; Times: 4
+	Query: "Naso annulatus" ; Times: 2
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "specificepithet:gaurus genus:Bos" ; Times: 2
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 4
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 1
+	Query: "Naso annulatus mappable:1" ; Times: 2
+	Query: "aphanius" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "chameleon" ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Naso tonganus" ; Times: 2
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "pterois volitans" ; Times: 10
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "zoothera schistacea" ; Times: 3
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Oxynotus" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 4
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Lagenodelphis hosei" ; Times: 1
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "proteus" ; Times: 3
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "Acanthurus grammoptilus" ; Times: 4
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "gomezi" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Acanthurus blochii mappable:1" ; Times: 4
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Vipera" ; Times: 3
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Naso maculatus" ; Times: 2
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "locality:sudest" ; Times: 1
+	Query: "garnotii indonesia" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "Acanthurus albipectoralis" ; Times: 3
+	Query: "ficedula harterti" ; Times: 2
+	Query: "vntype:specimen country:&#34;Philippines&#34; (Rabor)" ; Times: 1
+	Query: "Acanthurus albipectoralis mappable:1" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "potorous gilbertii" ; Times: 2
+	Query: "genus:hydrurga" ; Times: 3
+	Query: "Rhinolophus affinis" ; Times: 2
+	Query: "specificepithet:wallacei" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 2
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 2
+	Query: "cats" ; Times: 1
+	Query: "Naso fageni" ; Times: 3
+	Query: "gilbertii" ; Times: 1
+	Query: "Pterois volitans" ; Times: 16
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "genus:Pseudothecadactylus order:Squamata class:reptilia" ; Times: 1
+	Query: "crocidura fuliginosa" ; Times: 4
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "Ara ararauna" ; Times: 1
+	Query: "ficedula timorensis" ; Times: 2
+	Query: "Naso fageni mappable:1" ; Times: 3
+	Query: "psychrolutes" ; Times: 1
+	Query: "boleophthalmus" ; Times: 1
+	Query: "Plectropomus pessuliferus" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "dipodidae australia" ; Times: 1
+	Query: "Gillichthys mirabilis" ; Times: 3
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "R60749" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "diardi" ; Times: 1
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Mesoplodon mirus" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "sphenomorphus komodo" ; Times: 1
+	Query: "specificepithet:affinis genus:Rhinolophus" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "Naso tonganus mappable:1" ; Times: 2
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "dicrurus megarhynchus" ; Times: 2
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Harpia" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "Labrichthys unilineatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1169 download events in this period)
+Total number of records downloaded: 2241
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 21
+	Country: Ecuador ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 8
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.

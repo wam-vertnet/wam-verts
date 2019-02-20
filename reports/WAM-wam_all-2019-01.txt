@@ -1,0 +1,254 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 2699
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 10
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 6
+	Country: Portugal ; Times: 12
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Turkey ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 34
+	Country: United States ; Times: 84
+	Country: Belgium ; Times: 20
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Ireland ; Times: 3
+	Country: Switzerland ; Times: 3
+	Country: New Zealand ; Times: 28
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 14
+	Date: 2019-01-18 ; Times: 5
+	Date: 2019-01-14 ; Times: 35
+	Date: 2019-01-15 ; Times: 12
+	Date: 2019-01-30 ; Times: 36
+	Date: 2019-01-17 ; Times: 6
+	Date: 2019-01-10 ; Times: 9
+	Date: 2019-01-23 ; Times: 19
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-02 ; Times: 11
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 20
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 22
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "West Java Species" ; Times: 1
+	Query: "Cynoglossus ogilbyi" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Egernia institutioncode:WAM" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 2
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "Emoia CM" ; Times: 1
+	Query: "genus:Tyto catalognumber:A4496 institutioncode:WAM" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "Parablennius tentacularis mappable:1" ; Times: 2
+	Query: "macaca fascicularis" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Eopsaltria australis" ; Times: 1
+	Query: "Tropidophorus institutioncode:WAM" ; Times: 1
+	Query: "Paraplagusia guttata" ; Times: 8
+	Query: "Ara macao" ; Times: 1
+	Query: "trygonorrhina" ; Times: 1
+	Query: "Chalcophaps Christmas Island" ; Times: 1
+	Query: "Paraplagusia longirostris" ; Times: 1
+	Query: "Phylloscopus affinis" ; Times: 2
+	Query: "Timor Chalcophaps" ; Times: 1
+	Query: "xenicus" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "Centrolophus niger mappable:1" ; Times: 1
+	Query: "specificepithet:lapponica country:&#34;russia&#34;" ; Times: 1
+	Query: "pterois volitans" ; Times: 2
+	Query: "72 ornata" ; Times: 1
+	Query: "hypsypops rubicundus" ; Times: 4
+	Query: "Carcharhinus limbatus" ; Times: 7
+	Query: "hydrophis ornatus" ; Times: 2
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Rhincodon typus mappable:1" ; Times: 2
+	Query: "Sumba Chalcophaps" ; Times: 1
+	Query: "Paraplagusia japonica" ; Times: 1
+	Query: "varanus caudolineatus" ; Times: 2
+	Query: "Micropsitta" ; Times: 1
+	Query: "Chiroptera Nigeria" ; Times: 1
+	Query: "rhina" ; Times: 2
+	Query: "amethistina" ; Times: 3
+	Query: "Taudactylus diurnus" ; Times: 1
+	Query: "Varanus kingorum" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 28
+	Query: "wallacei" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:gazella gazella" ; Times: 3
+	Query: "837 ornata" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "genus:Tyto institutioncode:WAM" ; Times: 1
+	Query: "Gekko smithii" ; Times: 2
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "genus:Eubalaena" ; Times: 7
+	Query: "Chalcophaps Timor Island" ; Times: 1
+	Query: "Varanus primordius" ; Times: 1
+	Query: "Corucia institutioncode:WAM" ; Times: 1
+	Query: "cryptoblepharus xenikos" ; Times: 1
+	Query: "Garibaldi" ; Times: 1
+	Query: "aplonis minor minor" ; Times: 1
+	Query: "stenella coeruleoalba" ; Times: 1
+	Query: "rhina ancylostoma" ; Times: 3
+	Query: "&#34;Megaptera novaeangliae&#34;" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Todiramphus Aru" ; Times: 2
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "pristis" ; Times: 2
+	Query: "Tiliqua institutioncode:WAM" ; Times: 1
+	Query: "Paraplagusia sinerama" ; Times: 1
+	Query: "Pterois antennata" ; Times: 2
+	Query: "CM-9029" ; Times: 1
+	Query: "seriola rivoliana" ; Times: 1
+	Query: "Kogia sima" ; Times: 2
+	Query: "(drayton)" ; Times: 1
+	Query: "myliobatis vntype:specimen" ; Times: 5
+	Query: "Dalatias licha mappable:1" ; Times: 4
+	Query: "genus:Tyto catalognumber:A2934 institutioncode:WAM" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Indonesia Chalcophaps stephani" ; Times: 1
+	Query: "rhynchobatus" ; Times: 2
+	Query: "Melonycteris" ; Times: 3
+	Query: "dermoptera" ; Times: 1
+	Query: "Pseudomys shortridgei" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "seorsus" ; Times: 2
+	Query: "Varanus panoptes" ; Times: 2
+	Query: "Panorama" ; Times: 1
+	Query: "Ophisurus serpens mappable:1" ; Times: 2
+	Query: "Polyprion americanus mappable:1" ; Times: 2
+	Query: "Lepadogaster lepadogaster mappable:1" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 5
+	Query: "Hypsurus caryi" ; Times: 1
+	Query: "ravidus" ; Times: 1
+	Query: "varanus giganteus" ; Times: 3
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "Indonesia Chalcophaps" ; Times: 2
+	Query: "Calliophis bivirgata" ; Times: 2
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trygonorrhina fasciata" ; Times: 7
+	Query: "Varanus caudolineatus" ; Times: 2
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "Varanus rosenbergi" ; Times: 3
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "Phylloscopus affinis mappable:1" ; Times: 2
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Lipophrys pholis mappable:1" ; Times: 2
+	Query: "tarsius spectrum" ; Times: 1
+	Query: "Pristis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 115 (out of 962 download events in this period)
+Total number of records downloaded: 390
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 95
+	Country: Ireland ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-28 ; Times: 8
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-30 ; Times: 14
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-29 ; Times: 23
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-31 ; Times: 22
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Paraplagusia sinerama" ; Times: 1
+	Query: "Chiroptera Nigeria" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Kogia sima" ; Times: 1
+	Query: "Nauta" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Dermoptera" ; Times: 22
+	Query: "class:Aves stateprovince:&#34;Sulawesi&#34; country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "panthera tigris" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.

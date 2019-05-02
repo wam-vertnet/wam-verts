@@ -1,0 +1,266 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 4091
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 7
+	Country: Australia ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Tanzania ; Times: 1
+	Country: India ; Times: 1
+	Country: Sweden ; Times: 10
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Austria ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Argentina ; Times: 37
+	Country: United States ; Times: 60
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 6
+	Date: 2019-04-19 ; Times: 4
+	Date: 2019-04-18 ; Times: 11
+	Date: 2019-04-23 ; Times: 10
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 9
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 11
+	Date: 2019-04-15 ; Times: 6
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-01 ; Times: 37
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-03 ; Times: 13
+	Date: 2019-04-22 ; Times: 10
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-06 ; Times: 4
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 10
+	Date: 2019-04-08 ; Times: 6
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cuculus poliocephalus india" ; Times: 1
+	Query: "specificepithet:typus genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ctenotus leae mappable:1" ; Times: 1
+	Query: "Heteronotia planiceps mappable:1" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Corvus Splendens" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Morethia adelaidensis mappable:1" ; Times: 1
+	Query: "gekko smithii malaysia" ; Times: 1
+	Query: "Eremiascincus richardsonii mappable:1" ; Times: 1
+	Query: "specificepithet:sepulcralis genus:Cuculus" ; Times: 2
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "Carlia schmeltzii mappable:1" ; Times: 1
+	Query: "Macrochelodina walloyarrina" ; Times: 2
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "Ctenotus ingrami mappable:1" ; Times: 1
+	Query: "Amphibolurus burnsi mappable:1" ; Times: 1
+	Query: "Strophurus williamsi mappable:1" ; Times: 1
+	Query: "SCARUS ghobban" ; Times: 1
+	Query: "specificepithet:caledonicus genus:Nycticorax" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "paramacrodon" ; Times: 1
+	Query: "gua" ; Times: 1
+	Query: "Orcinus" ; Times: 1
+	Query: "Ctenotus allotropis mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 2
+	Query: "&#34;almaden&#34;" ; Times: 1
+	Query: "Halicampus" ; Times: 2
+	Query: "Ninox connivens western australia" ; Times: 1
+	Query: "genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Aprasia striolata mappable:1" ; Times: 1
+	Query: "carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "dendrolagus lumholtzi" ; Times: 1
+	Query: "globicephala macrorhynchus" ; Times: 1
+	Query: "specificepithet:mortierii genus:Gallinula" ; Times: 1
+	Query: "aprasia pulchella" ; Times: 1
+	Query: "Poecilia vivipara mappable:1" ; Times: 1
+	Query: "Varanus rosenbergi mappable:1" ; Times: 1
+	Query: "pipistrellus macrotis" ; Times: 1
+	Query: "Ctenotus regius mappable:1" ; Times: 1
+	Query: "Pedionomus" ; Times: 2
+	Query: "specificepithet:nereis genus:Sterna" ; Times: 8
+	Query: "Ctenotus alacer mappable:1" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "genus:Tyto catalognumber:A117 institutioncode:WAM" ; Times: 1
+	Query: "rhipidura dryas" ; Times: 3
+	Query: "optivus elongatus" ; Times: 4
+	Query: "genus:Tyto institutioncode:WAM" ; Times: 2
+	Query: "komodoensis" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "specificepithet:pacifica genus:Ardea" ; Times: 4
+	Query: "Apodemus chevrieri" ; Times: 3
+	Query: "RM 4940" ; Times: 1
+	Query: "Chelodina walloyarrina" ; Times: 1
+	Query: "Chameleon" ; Times: 1
+	Query: "buceros bicornis" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "Kogia breviceps" ; Times: 1
+	Query: "Diporiphora magna mappable:1" ; Times: 1
+	Query: "Pseudonaja aspidorhyncha mappable:1" ; Times: 1
+	Query: "Pygopus schraderi mappable:1" ; Times: 1
+	Query: "Saproscincus mustelinus mappable:1" ; Times: 1
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "Pyrrhura molinae" ; Times: 2
+	Query: "circus aeruginosus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Plestiodon anthracinus mappable:1" ; Times: 1
+	Query: "Proablepharus tenuis mappable:1" ; Times: 1
+	Query: "genus:Mephitis institutioncode:WAM" ; Times: 1
+	Query: "Brachyurophis australis mappable:1" ; Times: 1
+	Query: "yak" ; Times: 1
+	Query: "specificepithet:dohertyi institutioncode:WAM" ; Times: 2
+	Query: "Doryrhamphus negrosensis" ; Times: 4
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Tympanocryptis intima mappable:1" ; Times: 1
+	Query: "Chlamydosaurus kingii mappable:1" ; Times: 1
+	Query: "pteropus neohibernicus" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 1
+	Query: "Ctenotus tantillus mappable:1" ; Times: 1
+	Query: "Anilios endoterus mappable:1" ; Times: 1
+	Query: "Diplodactylus polyophthalmus mappable:1" ; Times: 1
+	Query: "Diporiphora nobbi mappable:1" ; Times: 1
+	Query: "Enhydris punctata" ; Times: 1
+	Query: "Egernia saxatilis mappable:1" ; Times: 1
+	Query: "ceratias" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Lerista punctatovittata mappable:1" ; Times: 1
+	Query: "class:aves recordedby:giles" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+	Query: "specificepithet:parviceps " ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "Ctenotus strauchii mappable:1" ; Times: 1
+	Query: "dibamus" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 2
+	Query: "Lucasium steindachneri mappable:1" ; Times: 1
+	Query: "scarus ghobban" ; Times: 3
+	Query: "Lygisaurus foliorum mappable:1" ; Times: 1
+	Query: "Gehyra occidentalis mappable:1" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "optivus agastos" ; Times: 1
+	Query: "flavicauda" ; Times: 1
+	Query: "Trimeresurus albolabris mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Python sebae mappable:1" ; Times: 1
+	Query: "eryx" ; Times: 1
+	Query: "Liopholis whitii mappable:1" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "Apodemus draco" ; Times: 2
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "Tachyoryctes" ; Times: 2
+	Query: "Diplodactylus tessellatus mappable:1" ; Times: 1
+	Query: "&#34;leslie salt&#34;" ; Times: 1
+	Query: "eopsaltria georgiana" ; Times: 5
+	Query: "Intellagama lesueurii mappable:1" ; Times: 1
+	Query: "specificepithet:linchi" ; Times: 1
+	Query: "specificepithet:carteri country:&#34;australia&#34;" ; Times: 3
+	Query: "psittacula krameri" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1263 download events in this period)
+Total number of records downloaded: 2459
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 12
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-22 ; Times: 9
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "specificepithet:cactorum genus:aratinga" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Apodemus draco" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Apodemus chevrieri" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "Eudyptes schlegeli" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:linchi" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Eudyptes pachyrhynchus" ; Times: 1
+
+
+End of report.

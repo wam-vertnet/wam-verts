@@ -1,0 +1,356 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 626
+Number of records retrieved in searches: 10751
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 157
+	Country: Australia ; Times: 15
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 13
+	Country: Singapore ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 401
+	Country: United Kingdom ; Times: 3
+	Country: Netherlands ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 19
+	Date: 2019-12-24 ; Times: 15
+	Date: 2019-12-27 ; Times: 51
+	Date: 2019-12-26 ; Times: 131
+	Date: 2019-12-21 ; Times: 105
+	Date: 2019-12-20 ; Times: 72
+	Date: 2019-12-22 ; Times: 29
+	Date: 2019-12-29 ; Times: 3
+	Date: 2019-12-28 ; Times: 6
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 11
+	Date: 2019-12-11 ; Times: 7
+	Date: 2019-12-12 ; Times: 9
+	Date: 2019-12-13 ; Times: 6
+	Date: 2019-12-15 ; Times: 3
+	Date: 2019-12-16 ; Times: 16
+	Date: 2019-12-17 ; Times: 3
+	Date: 2019-12-31 ; Times: 8
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 8
+	Date: 2019-12-05 ; Times: 13
+	Date: 2019-12-04 ; Times: 74
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 24
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "brachyurophis fasciolatus institutioncode:WAM" ; Times: 1
+	Query: "Apus pacificus" ; Times: 2
+	Query: "specificepithet:dohertyi genus:zoothera" ; Times: 1
+	Query: "Coelognathus subradiatus" ; Times: 1
+	Query: "pseudechis porphyriacus institutioncode:WAM" ; Times: 1
+	Query: "Balaenoptera borealis mappable:1" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 2
+	Query: "Lampris guttatus mappable:1" ; Times: 7
+	Query: "Diodon hystrix mappable:1" ; Times: 11
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "simoselaps minimus institutioncode:WAM" ; Times: 2
+	Query: "Pterois volitans mappable:1" ; Times: 5
+	Query: "Lagenodelphis hosei mappable:1" ; Times: 2
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "echiopsis institutioncode:WAM" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Seriola dumerili mappable:1" ; Times: 3
+	Query: "Stegastes otophorus mappable:1" ; Times: 1
+	Query: "enhydris enhydris institutioncode:WAM" ; Times: 1
+	Query: "Notechis institutioncode:WAM" ; Times: 1
+	Query: "gag island" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 2
+	Query: "zoarcidae" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "simoselaps institutioncode:WAM" ; Times: 5
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 2
+	Query: "Channomuraena vittata mappable:1" ; Times: 2
+	Query: "liasis fuscus institutioncode:WAM" ; Times: 1
+	Query: "suta institutioncode:WAM" ; Times: 1
+	Query: "drysdalia coronoides institutioncode:WAM" ; Times: 1
+	Query: "vermicella annulata institutioncode:WAM" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 3
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 7
+	Query: "acanthophis antarcticus institutioncode:WAM" ; Times: 1
+	Query: "demansia papuensis institutioncode:WAM" ; Times: 1
+	Query: "Decapterus macarellus mappable:1" ; Times: 3
+	Query: "Nomeus gronovii mappable:1" ; Times: 4
+	Query: "vermicella snelli institutioncode:WAM" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 2
+	Query: "liasis institutioncode:WAM" ; Times: 3
+	Query: "Aluterus scriptus mappable:1" ; Times: 6
+	Query: "pseudechis australis institutioncode:WAM" ; Times: 2
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "Ablennes hians mappable:1" ; Times: 18
+	Query: "Malacocephalus laevis mappable:1" ; Times: 4
+	Query: "Rachycentron canadum mappable:1" ; Times: 2
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 3
+	Query: "drysdalia institutioncode:WAM" ; Times: 2
+	Query: "cerberus australis institutioncode:WAM" ; Times: 1
+	Query: "gbifdatasetid:7c93d290-6c8b-11de-8226-b8a03c50a862 amethistina" ; Times: 1
+	Query: "elapognathus institutioncode:WAM" ; Times: 1
+	Query: "demansia psammophis institutioncode:WAM" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 3
+	Query: "Exocoetus volitans mappable:1" ; Times: 2
+	Query: "chamaeleo zeylanicus" ; Times: 1
+	Query: "Thunnus maccoyii" ; Times: 3
+	Query: "ara ararauna" ; Times: 1
+	Query: "vermicella institutioncode:WAM" ; Times: 2
+	Query: "remora brachyptera" ; Times: 1
+	Query: "Caranx lugubris mappable:1" ; Times: 3
+	Query: "Chromis multilineata mappable:1" ; Times: 5
+	Query: "Ashbyia lovensis" ; Times: 5
+	Query: "Coryphaena hippurus mappable:1" ; Times: 2
+	Query: "Rhincodon typus mappable:1" ; Times: 2
+	Query: "demansia olivacea institutioncode:WAM" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 2
+	Query: "suta punctata institutioncode:WAM" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "Tridentiger trigonocephalus" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 2
+	Query: "monarcha gag" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 5
+	Query: "Hippocampus planifrons" ; Times: 10
+	Query: "Trachinocephalus myops mappable:1" ; Times: 2
+	Query: "Planigale ingrami" ; Times: 2
+	Query: "pseudonaja textilis institutioncode:WAM" ; Times: 1
+	Query: "simoselaps littoralis institutioncode:WAM" ; Times: 1
+	Query: "morelia spilota institutioncode:WAM" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 5
+	Query: "monster" ; Times: 1
+	Query: "amethistina" ; Times: 10
+	Query: "elapidae institutioncode:WAM" ; Times: 2
+	Query: "fordonia institutioncode:WAM" ; Times: 1
+	Query: "Bregmaceros atlanticus mappable:1" ; Times: 7
+	Query: "suta fasciata institutioncode:WAM" ; Times: 1
+	Query: "simoselaps bertholdi institutioncode:WAM" ; Times: 2
+	Query: "rhinoplocephalus bicolor institutioncode:WAM" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "dendrelaphis punctulata institutioncode:WAM" ; Times: 1
+	Query: "austrelaps institutioncode:WAM" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "cacophis harriettae institutioncode:WAM" ; Times: 1
+	Query: "pseudonaja modesta institutioncode:WAM" ; Times: 1
+	Query: "Remora osteochir mappable:1" ; Times: 2
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "Naucrates ductor mappable:1" ; Times: 3
+	Query: "Antennarius striatus mappable:1" ; Times: 12
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 5
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 2
+	Query: "demansia institutioncode:WAM" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 11
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "oxyuranus scutellatus institutioncode:WAM" ; Times: 1
+	Query: "oxyuranus temporalis institutioncode:WAM" ; Times: 1
+	Query: "pseudonaja nuchalis institutioncode:WAM" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 3
+	Query: "Morelia variegata" ; Times: 1
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 7
+	Query: "Gallicolumba" ; Times: 1
+	Query: "Acanthocybium solandri mappable:1" ; Times: 2
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 2
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 2
+	Query: "Kaupichthys hyoproroides mappable:1" ; Times: 11
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 2
+	Query: "tropidonophis institutioncode:WAM" ; Times: 1
+	Query: "Furina ornata institutioncode:WAM" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "Chromis cyanea mappable:1" ; Times: 5
+	Query: "aspidites ramsayi institutioncode:WAM" ; Times: 1
+	Query: "specificepithet:quadriporcatus genus:Ingerophrynus" ; Times: 2
+	Query: "myron institutioncode:WAM" ; Times: 1
+	Query: "brachyurophis institutioncode:WAM" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 13
+	Query: "Centrobranchus nigroocellatus mappable:1" ; Times: 7
+	Query: "vntype:specimen genus:Gonocephalus AND (grandis)" ; Times: 1
+	Query: "coturnix novaezelandiae" ; Times: 3
+	Query: "austrelaps superbus institutioncode:WAM" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 5
+	Query: "specificepithet:amethistina country:&#34;Indonesia&#34;" ; Times: 2
+	Query: "pseudonaja affinis institutioncode:WAM" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "Stegastes partitus mappable:1" ; Times: 5
+	Query: "specificepithet:melanostictus genus:Duttaphrynus" ; Times: 2
+	Query: "specificepithet:longidigita genus:Ansonia" ; Times: 2
+	Query: "institutioncode:WAM" ; Times: 1
+	Query: "liasis fuscus" ; Times: 1
+	Query: "Chlorophthalmus agassizi mappable:1" ; Times: 2
+	Query: "Diodon holocanthus" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "oxyuranus institutioncode:WAM" ; Times: 3
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Cheilopogon heterurus mappable:1" ; Times: 2
+	Query: "gbifdatasetid:7c93d290-6c8b-11de-8226-b8a03c50a862" ; Times: 6
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "Rhodeus sericeus" ; Times: 4
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 7
+	Query: "Oxyuranus temporalis" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "gag" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 4
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "brachyurophis australis institutioncode:WAM" ; Times: 1
+	Query: "institutioncode:WAM Hippocampus planifrons" ; Times: 1
+	Query: "simoselaps anomalus institutioncode:WAM" ; Times: 1
+	Query: "Diaphus garmani  mappable:1" ; Times: 5
+	Query: "Steno bredanensis mappable:1" ; Times: 2
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 8
+	Query: "vermicella multifasciata institutioncode:WAM" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 5
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "Hirundichthys speculiger mappable:1" ; Times: 2
+	Query: "enhydris institutioncode:WAM" ; Times: 1
+	Query: "Heterocephalus glaber" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 8
+	Query: "liasis olivaceus institutioncode:WAM" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria mappable:1" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "specificepithet:biporcatus genus:Ingerophrynus" ; Times: 2
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 10
+	Query: "stegonotus institutioncode:WAM" ; Times: 1
+	Query: "rhinoplocephalus institutioncode:WAM" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "Fistularia commersonii" ; Times: 2
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 3
+	Query: "Hippocampus comes mappable:1" ; Times: 3
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Balaenoptera edeni  mappable:1" ; Times: 3
+	Query: "suta suta institutioncode:WAM" ; Times: 1
+	Query: "scarus ghobban" ; Times: 1
+	Query: "morelia amethistina" ; Times: 2
+	Query: "Hemiaspis signata institutioncode:WAM" ; Times: 1
+	Query: "Myctophum nitidulum mappable:1" ; Times: 4
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 1
+	Query: "cerberus institutioncode:WAM" ; Times: 1
+	Query: "simoselaps bimaculatus institutioncode:WAM" ; Times: 1
+	Query: "drysdalia mastersii institutioncode:WAM" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 4
+	Query: "Coenocorypha" ; Times: 1
+	Query: "morelia amethistina institutioncode:WAM" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "Varanus timorensis" ; Times: 3
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 18
+	Query: "Psenes cyanophrys mappable:1" ; Times: 4
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Kogia sima mappable:1" ; Times: 2
+	Query: "Hoplocephalus institutioncode:WAM" ; Times: 1
+	Query: "pseudonaja institutioncode:WAM" ; Times: 4
+	Query: "Stegastes diencaeus mappable:1" ; Times: 5
+	Query: "Stegastes leucostictus mappable:1" ; Times: 5
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "morelia carinata institutioncode:WAM" ; Times: 1
+	Query: "aspidites melanocephalus institutioncode:WAM" ; Times: 1
+	Query: "Pleuronichthys verticalis" ; Times: 1
+	Query: "cyrtodactylus loriae" ; Times: 1
+	Query: "wam guttulus" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 13
+	Query: "denisonia institutioncode:WAM" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 2
+	Query: "acanthophis institutioncode:WAM" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 2
+	Query: "Stegastes planifrons mappable:1" ; Times: 5
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "Thunnus alalunga mappable:1" ; Times: 2
+	Query: "Alectis ciliaris mappable:1" ; Times: 3
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "vntype:specimen (Gonocephalus) AND (grandis)" ; Times: 3
+	Query: "acanthophis pyrrhus institutioncode:WAM" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 2
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 2
+	Query: "pseudonaja mengdeni institutioncode:WAM" ; Times: 2
+	Query: "specificepithet:albomaculata genus:Ansonia" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 596 download events in this period)
+Total number of records downloaded: 1390
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Belgium ; Times: 9
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 9
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "specificepithet:dohertyi genus:zoothera" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Sumatra&#34; country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "nyctixalus pictus" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "ansonia" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.

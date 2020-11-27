@@ -1,0 +1,326 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 238
+Number of records retrieved in searches: 3407
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 146
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 43
+	Country: Switzerland ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 13
+	Country: Dominican Republic ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 13
+	Date: 2020-02-05 ; Times: 71
+	Date: 2020-02-24 ; Times: 21
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 7
+	Date: 2020-02-01 ; Times: 13
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-21 ; Times: 11
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-10 ; Times: 11
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 8
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 10
+	Date: 2020-02-03 ; Times: 20
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 6
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "2-6775" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "Dimetrodon" ; Times: 1
+	Query: "pachyptila kerguelen" ; Times: 3
+	Query: "scientificname:Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 2
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Homalopsidae" ; Times: 1
+	Query: "POSIDONICHTHYS" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 2
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:WAM" ; Times: 2
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Dermoptera variegatus)" ; Times: 1
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "eremita" ; Times: 2
+	Query: "Scotophilus kuhlii" ; Times: 1
+	Query: "genus:Megaderma order:Chiroptera" ; Times: 1
+	Query: "Upeneichthys stotti mappable:1" ; Times: 1
+	Query: "diomedea eremita" ; Times: 4
+	Query: "&#34;camelus dromedarius&#34;" ; Times: 1
+	Query: "La Nana Creek" ; Times: 1
+	Query: "papilio" ; Times: 1
+	Query: "Myotis muricola" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "xenopeltis unicolor" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "R69255" ; Times: 1
+	Query: "specificepithet:smithii genus:Gekko basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pachyptila macgillivrayi" ; Times: 2
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus randalli mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "scientificname:Upeneichthys stotti mappable:1" ; Times: 1
+	Query: "Gerygone tenebrosa" ; Times: 1
+	Query: "diomedea cauta eremita" ; Times: 1
+	Query: "M8312" ; Times: 1
+	Query: "Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "specificepithet:virgata genus:Calidris" ; Times: 1
+	Query: "Upeneus australiae mappable:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "amethistina" ; Times: 4
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "coppingeri" ; Times: 1
+	Query: "rattus jobiensis" ; Times: 1
+	Query: "puffinus assimilis western australia" ; Times: 5
+	Query: "assimilis western australia" ; Times: 1
+	Query: "Polyipnus spinosus" ; Times: 3
+	Query: "Gekko smithii" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "WAM procellariiformes" ; Times: 2
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Phosichthys" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus margarethae mappable:1" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "gekko smithii" ; Times: 3
+	Query: "galagidae" ; Times: 1
+	Query: "pelecanoides urinatrix exsul" ; Times: 1
+	Query: "stegostoma" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "Litoria jervisiensis" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "lenomys" ; Times: 1
+	Query: "M4430" ; Times: 1
+	Query: "AL family:tupaiidae" ; Times: 1
+	Query: "Sminthopsis granulipes" ; Times: 2
+	Query: "pachyptila turtur" ; Times: 2
+	Query: "Upeneus asymmetricus mappable:1" ; Times: 1
+	Query: "oceanites oceanicus australia" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Phascogale calura" ; Times: 1
+	Query: "specificepithet:hosei" ; Times: 1
+	Query: "AL 1 family:tupaiidae" ; Times: 1
+	Query: "cj 9701" ; Times: 1
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;India&#34; continent:Asia" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "romeri" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Papagomys armandvillei" ; Times: 3
+	Query: "Gallus varius" ; Times: 2
+	Query: "cetorhinus" ; Times: 1
+	Query: "scientificname:Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "(dermoptera sunda)" ; Times: 3
+	Query: "pachyptila crassirostris" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus asymmetricus mappable:1" ; Times: 1
+	Query: "genus:Ficedula country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Daphoenositta striata" ; Times: 1
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "puffinus abrolhos" ; Times: 1
+	Query: "puffinus assimilis" ; Times: 2
+	Query: "Northern Territory genus:Moloch" ; Times: 1
+	Query: "Australia genus:Moloch" ; Times: 1
+	Query: "pachyptila heard" ; Times: 1
+	Query: "amnh 2622" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "dermoptera" ; Times: 6
+	Query: "cheeseman" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "monachus" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "Mesoplodon" ; Times: 1
+	Query: "Kaloula baleata" ; Times: 1
+	Query: "recordedby:Mearns" ; Times: 2
+	Query: "lagorchestes leporides" ; Times: 1
+	Query: "Geocrinia vitellina" ; Times: 1
+	Query: "specificepithet:gigas genus:Macroderma" ; Times: 2
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "Cercartetus concinnus" ; Times: 2
+	Query: "Bungarus" ; Times: 1
+	Query: "scientificname:Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "Mushroom" ; Times: 1
+	Query: "megachasma" ; Times: 1
+	Query: "scientificname:Upeneus guttatus mappable:1" ; Times: 1
+	Query: "catalognumber:P33267" ; Times: 6
+	Query: "molidae" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 1
+	Query: "&#34;Tachyglossus aculeatus&#34;" ; Times: 2
+	Query: "scientificname:Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Poecilopsetta colorata" ; Times: 2
+	Query: "scientificname:Upeneus australiae mappable:1" ; Times: 1
+	Query: "Microbrotula" ; Times: 1
+	Query: "ninox scutulata" ; Times: 1
+	Query: "specificepithet:hammondii genus:scaphiopus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sminthopsis griseoventer" ; Times: 2
+	Query: "Eptatretus" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "megapodius freycinet" ; Times: 4
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Hydrophis platurus" ; Times: 5
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Cyrtodactylus sermowaiensis" ; Times: 1
+	Query: "pachyptila belcheri kerguelen" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 111 (out of 1023 download events in this period)
+Total number of records downloaded: 2455
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 87
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 14
+	Date: 2020-02-05 ; Times: 15
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-03 ; Times: 18
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-06 ; Times: 16
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Phascogale calura" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Hippopotamus" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Gallus varius" ; Times: 1
+	Query: "Antechinus agilis" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Dermoptera" ; Times: 26
+	Query: "Nasua narica" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lagorchestes leporides" ; Times: 1
+
+
+End of report.

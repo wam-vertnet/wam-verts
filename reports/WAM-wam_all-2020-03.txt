@@ -1,0 +1,621 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 686
+Number of records retrieved in searches: 18823
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 36
+	Country: France ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 30
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Thailand ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: Finland ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 204
+	Country: Russia ; Times: 3
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 295
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 37
+	Country: Japan ; Times: 1
+	Country: Taiwan ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 7
+	Date: 2020-03-31 ; Times: 119
+	Date: 2020-03-02 ; Times: 16
+	Date: 2020-03-18 ; Times: 222
+	Date: 2020-03-19 ; Times: 51
+	Date: 2020-03-09 ; Times: 9
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-12 ; Times: 4
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-06 ; Times: 14
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-26 ; Times: 76
+	Date: 2020-03-25 ; Times: 9
+	Date: 2020-03-24 ; Times: 6
+	Date: 2020-03-23 ; Times: 18
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 59
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-11 ; Times: 15
+	Date: 2020-03-01 ; Times: 13
+	Date: 2020-03-03 ; Times: 22
+	Date: 2020-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanotaenia catherinae mappable:1" ; Times: 1
+	Query: "Nyctimene aello" ; Times: 2
+	Query: "Rousettus lanosus" ; Times: 1
+	Query: "Glossolepis maculosus mappable:1" ; Times: 1
+	Query: "Demansia institutioncode:WAM" ; Times: 2
+	Query: "Craterocephalus marianae mappable:1" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Symbolophorus barnardi" ; Times: 1
+	Query: "Chilatherina crassispinosa mappable:1" ; Times: 1
+	Query: "Megaerops ecaudatus" ; Times: 2
+	Query: "Melonycteris woodfordi" ; Times: 2
+	Query: "Taphozous longimanus" ; Times: 2
+	Query: "Glossolepis dorityi mappable:1" ; Times: 1
+	Query: "Triaenops afer" ; Times: 1
+	Query: "Hypoatherina barnesi mappable:1" ; Times: 4
+	Query: "Chilatherina alleni mappable:1" ; Times: 1
+	Query: "Chilatherina bleheri mappable:1" ; Times: 1
+	Query: "eremita" ; Times: 1
+	Query: "Nyctimene major" ; Times: 2
+	Query: "Hipposideros atrox" ; Times: 1
+	Query: "Melanotaenia oktediensis mappable:1" ; Times: 1
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Hipposideros sumbae" ; Times: 1
+	Query: "Hipposideros maggietaylorae" ; Times: 1
+	Query: "Balionycteris maculata" ; Times: 1
+	Query: "Tylonycteris robustula" ; Times: 1
+	Query: "Craterocephalus lentiginosus mappable:1" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "Chilatherina fasciata mappable:1" ; Times: 1
+	Query: "Melanotaenia rubripinnis mappable:1" ; Times: 1
+	Query: "Lagenodelphis hosei" ; Times: 1
+	Query: "Melanotaenia duboulayi mappable:1" ; Times: 1
+	Query: "Melanotaenia australis mappable:1" ; Times: 1
+	Query: "Melanotaenia ajamaruensis mappable:1" ; Times: 1
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "Indirana" ; Times: 1
+	Query: "Styloctenium wallacei" ; Times: 1
+	Query: "Chironax melanocephalus" ; Times: 1
+	Query: "Urocampus" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 74
+	Query: "Melanotaenia kamaka mappable:1" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 1
+	Query: "Murina cyclotis" ; Times: 2
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Craterocephalus stramineus mappable:1" ; Times: 1
+	Query: "Scarus niger mappable:1" ; Times: 1
+	Query: "Demansia psammophis institutioncode:WAM" ; Times: 1
+	Query: "Hipposideros stenotis" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Melanotaenia pimaensis mappable:1" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "Hippocampus tuberculatus" ; Times: 5
+	Query: "Craterocephalus randi mappable:1" ; Times: 1
+	Query: "Taphozous hilli" ; Times: 1
+	Query: "Rhinolophus sedulus" ; Times: 1
+	Query: "Tylonycteris pachypus" ; Times: 1
+	Query: "Myotis macropus" ; Times: 2
+	Query: "cobitis taenia" ; Times: 2
+	Query: "meminna" ; Times: 1
+	Query: "Scotorepens greyii" ; Times: 1
+	Query: "Scotophilus collinus" ; Times: 1
+	Query: "Emballonura furax" ; Times: 1
+	Query: "dendrelaphis pictus institutioncode:WAM" ; Times: 1
+	Query: "Dobsonia emersa" ; Times: 1
+	Query: "genus:Emoia specificepithet:atrocostata" ; Times: 1
+	Query: "turtur new zealand" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "Rhinolophus macrotis" ; Times: 1
+	Query: "Melanotaenia splendida inornata mappable:1" ; Times: 1
+	Query: "Nyctimene robinsoni" ; Times: 2
+	Query: "Mops demonstrator" ; Times: 2
+	Query: "Nyctophilus heran" ; Times: 1
+	Query: "Rhinolophus philippinensis" ; Times: 1
+	Query: "Myotis moluccarum" ; Times: 2
+	Query: "Melanotaenia fredericki mappable:1" ; Times: 1
+	Query: "Syconycteris carolinae" ; Times: 1
+	Query: "Chilatherina sentaniensis mappable:1" ; Times: 1
+	Query: "Pteropus keyensis" ; Times: 1
+	Query: "Tadarida aegyptiaca" ; Times: 1
+	Query: "Vespadelus darlingtoni" ; Times: 1
+	Query: "Enhydris punctata" ; Times: 6
+	Query: "pedionomus" ; Times: 1
+	Query: "Spicospina flammocaerulea" ; Times: 1
+	Query: "genus:Falcunculus stateprovince:&#34;Western Australia&#34;" ; Times: 1
+	Query: "dendrelaphis inornatus institutioncode:WAM" ; Times: 1
+	Query: "Mormopterus planiceps" ; Times: 2
+	Query: "Hipposideros dyacorum" ; Times: 1
+	Query: "Falsistrellus mackenziei" ; Times: 1
+	Query: "Rhinolophus arcuatus" ; Times: 1
+	Query: "NK 1414" ; Times: 1
+	Query: "Hipposideros cineraceus" ; Times: 1
+	Query: "Vespadelus regulus" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "Atherinosoma microstoma mappable:1" ; Times: 1
+	Query: "Taphozous perforatus" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Emballonura beccarii" ; Times: 1
+	Query: "Megaderma spasma" ; Times: 2
+	Query: "Melanotaenia mubiensis mappable:1" ; Times: 1
+	Query: "Cetoscarus bicolor mappable:1" ; Times: 1
+	Query: "Melanotaenia eachamensis mappable:1" ; Times: 1
+	Query: "Eonycteris spelaea" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:macrodon" ; Times: 1
+	Query: "Atherinosoma elongata mappable:1" ; Times: 1
+	Query: "Craterocephalus stercusmuscarum mappable:1" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "rattus timorensis" ; Times: 1
+	Query: "Cairnsichthys rhombosomoides mappable:1" ; Times: 1
+	Query: "Nyctimene keasti" ; Times: 2
+	Query: "Melanotaenia trifasciata mappable:1" ; Times: 1
+	Query: "Cynopterus nusatenggara" ; Times: 1
+	Query: "genus:Caperea" ; Times: 1
+	Query: "Miniopterus fuliginosus" ; Times: 2
+	Query: "Craterocephalus dalhousiensis mappable:1" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 1
+	Query: "Nycteris macrotis" ; Times: 2
+	Query: "Epomophorus wahlbergi" ; Times: 1
+	Query: "Glossolepis ramuensis mappable:1" ; Times: 1
+	Query: "Myotis macrotarsus" ; Times: 2
+	Query: "Nyctophilus walkeri" ; Times: 1
+	Query: "Taphozous achates" ; Times: 1
+	Query: "Pteropus tonganus" ; Times: 1
+	Query: "Chilatherina axelrodi mappable:1" ; Times: 1
+	Query: "Nycteris hispida" ; Times: 2
+	Query: "Emballonura alecto" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 3
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "Melanotaenia pygmaea mappable:1" ; Times: 1
+	Query: "Sphaerias blanfordi" ; Times: 1
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "Coeranoscincus reticulatus" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 7
+	Query: "Triaenops persicus" ; Times: 1
+	Query: "Eonycteris major" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "Mormopterus beccarii" ; Times: 2
+	Query: "Megaerops kusnotoi" ; Times: 2
+	Query: "Otomops johnstonei" ; Times: 1
+	Query: "mola mola" ; Times: 1
+	Query: "(M3014)" ; Times: 1
+	Query: "Melanotaenia boesemani mappable:1" ; Times: 1
+	Query: "specificepithet:pennanti" ; Times: 2
+	Query: "nyctimene keasti" ; Times: 1
+	Query: "Myotis adversus" ; Times: 2
+	Query: "Pteropus griseus" ; Times: 1
+	Query: "Hipposideros cervinus" ; Times: 1
+	Query: "Myotis muricola" ; Times: 1
+	Query: "Ia io" ; Times: 2
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "Craterocephalus cuneiceps mappable:1" ; Times: 1
+	Query: "Atherinomorus endrachtensis mappable:1" ; Times: 4
+	Query: "specificepithet:xanthurus genus:Rattus" ; Times: 2
+	Query: "Pteropus lombocensis" ; Times: 1
+	Query: "Kestratherina brevirostris mappable:1" ; Times: 1
+	Query: "Craterocephalus capreoli mappable:1" ; Times: 2
+	Query: "Kerivoula pellucida" ; Times: 2
+	Query: "Grampus griseus" ; Times: 2
+	Query: "Rhinolophus luctus" ; Times: 1
+	Query: "Dyacopterus spadiceus" ; Times: 1
+	Query: "Melanotaenia papuae mappable:1" ; Times: 1
+	Query: "Pipistrellus papuanus" ; Times: 1
+	Query: "Acerodon mackloti" ; Times: 1
+	Query: "Hipposideros coxi" ; Times: 1
+	Query: "genus:mesoplodon densirostris" ; Times: 1
+	Query: "Rhinolophus canuti" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Dobsonia minor" ; Times: 1
+	Query: "Demansia reticulata institutioncode:WAM" ; Times: 1
+	Query: "Nyctimene albiventer" ; Times: 2
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "Melanotaenia parkinsoni mappable:1" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Murina rozendaali" ; Times: 2
+	Query: "Glossolepis pseudoincisus mappable:1" ; Times: 1
+	Query: "Leptatherina wallacei mappable:1" ; Times: 1
+	Query: "delichon urbica" ; Times: 1
+	Query: "Melanotaenia batanta mappable:1" ; Times: 1
+	Query: "Scarus oviceps mappable:1" ; Times: 1
+	Query: "genus:Pedionomus" ; Times: 1
+	Query: "Chaerephon jobensis" ; Times: 1
+	Query: "Melanotaenia herbertaxelrodi mappable:1" ; Times: 1
+	Query: "Rhinolophus affinis" ; Times: 1
+	Query: "Harpiocephalus harpia" ; Times: 1
+	Query: "R57365" ; Times: 1
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "sundatyphlops" ; Times: 1
+	Query: "Hipposideros wollastoni" ; Times: 1
+	Query: "Falsistrellus tasmaniensis" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Melanotaenia sexlineata mappable:1" ; Times: 1
+	Query: "Rhinolophus pusillus" ; Times: 1
+	Query: "Harpyionycteris whiteheadi" ; Times: 1
+	Query: "diomedea eremita" ; Times: 2
+	Query: "Miniopterus pusillus" ; Times: 2
+	Query: "Pipistrellus adamsi" ; Times: 1
+	Query: "Melanotaenia corona mappable:1" ; Times: 1
+	Query: "pachyptila crassirostris" ; Times: 2
+	Query: "Scarus schlegeli mappable:1" ; Times: 1
+	Query: "Rhadinocentrus ornatus mappable:1" ; Times: 1
+	Query: "Scotorepens orion" ; Times: 1
+	Query: "Pteropus chrysoproctus" ; Times: 1
+	Query: "Miniopterus tristis" ; Times: 2
+	Query: "Taphozous georgianus" ; Times: 1
+	Query: "Rhinolophus coelophyllus" ; Times: 1
+	Query: "Craterocephalus marjoriae mappable:1" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "Sashatherina giganteus mappable:1" ; Times: 1
+	Query: "Penthetor lucasi" ; Times: 1
+	Query: "Chilatherina pricei mappable:1" ; Times: 1
+	Query: "Nyctophilus timoriensis" ; Times: 1
+	Query: "diomedea kerguelen" ; Times: 1
+	Query: "Hipposideros abae" ; Times: 1
+	Query: "r65400" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Chalinolobus" ; Times: 1
+	Query: "Scotophilus borbonicus" ; Times: 1
+	Query: "Scarus globiceps mappable:1" ; Times: 2
+	Query: "Melanotaenia vanheurni mappable:1" ; Times: 1
+	Query: "locality:Southern Branch" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Vespertilio murinus" ; Times: 2
+	Query: "Melanotaenia ogilbyi mappable:1" ; Times: 1
+	Query: "Murina florium" ; Times: 2
+	Query: "Rhinolophus landeri" ; Times: 1
+	Query: "Melanotaenia lacustris mappable:1" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "Murina suilla" ; Times: 2
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Hipposideros ridleyi" ; Times: 1
+	Query: "Melanotaenia parva mappable:1" ; Times: 1
+	Query: "Melanotaenia praecox mappable:1" ; Times: 1
+	Query: "Pteropus macrotis" ; Times: 1
+	Query: "Craterocephalus munroi mappable:1" ; Times: 2
+	Query: "Hipposideros speoris" ; Times: 1
+	Query: "ducula spilorrhoa" ; Times: 1
+	Query: "Hipposideros diadema" ; Times: 1
+	Query: "(scandentia)" ; Times: 1
+	Query: "Chilatherina bulolo mappable:1" ; Times: 1
+	Query: "Craterocephalus nouhuysi mappable:1" ; Times: 1
+	Query: "Paranyctimene raptor" ; Times: 1
+	Query: "Melanotaenia exquisita mappable:1" ; Times: 1
+	Query: "Leptoscarus vaigiensis mappable:1" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "Hipposideros larvatus" ; Times: 1
+	Query: "Melanotaenia iris mappable:1" ; Times: 1
+	Query: "Melanotaenia irianjaya mappable:1" ; Times: 1
+	Query: "Suta punctata institutioncode:WAM" ; Times: 2
+	Query: "Melanotaenia maylandi mappable:1" ; Times: 1
+	Query: "Pteropus hypomelanus" ; Times: 1
+	Query: "Scotophilus dinganii" ; Times: 1
+	Query: "Atherinomorus vaigiensis mappable:1" ; Times: 1
+	Query: "Craterocephalus mugiloides mappable:1" ; Times: 4
+	Query: "specificepithet:braminus locality:christmas island" ; Times: 1
+	Query: "Glossolepis wanamensis mappable:1" ; Times: 1
+	Query: "Cynopterus minutus" ; Times: 1
+	Query: "Pteropus personatus" ; Times: 1
+	Query: "Melanotaenia splendida rubrostriata mappable:1" ; Times: 1
+	Query: "Rhinolophus marshalli" ; Times: 1
+	Query: "Megaerops niphanae" ; Times: 2
+	Query: "Scarus rivulatus mappable:1" ; Times: 1
+	Query: "Dobsonia viridis" ; Times: 1
+	Query: "Nyctimene cephalotes" ; Times: 2
+	Query: "Scotorepens balstoni" ; Times: 1
+	Query: "Stenatherina panatela mappable:1" ; Times: 1
+	Query: "Rhinolophus borneensis" ; Times: 1
+	Query: "Rousettus celebensis" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "Scotophilus nigrita" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:WAM" ; Times: 1
+	Query: "Craterocephalus fluviatilis mappable:1" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "Myotis hasseltii" ; Times: 2
+	Query: "Miniopterus paululus" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Vespadelus pumilus" ; Times: 1
+	Query: "diomedea exulans kerguelen" ; Times: 1
+	Query: "Glossolepis leggetti mappable:1" ; Times: 1
+	Query: "Pipistrellus westralis" ; Times: 1
+	Query: "Kerivoula flora" ; Times: 2
+	Query: "Pipistrellus abramus" ; Times: 1
+	Query: "Rhinolophus creaghi" ; Times: 1
+	Query: "Notopteris neocaledonica" ; Times: 2
+	Query: "Nyctophilus arnhemensis" ; Times: 1
+	Query: "Nyctophilus daedalus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Scotorepens" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Emballonura nigrescens" ; Times: 1
+	Query: "Vespadelus vulturnus" ; Times: 1
+	Query: "Craterocephalus amniculus mappable:1" ; Times: 1
+	Query: "Otopteropus cartilagonodus" ; Times: 1
+	Query: "Todiramphus macleayii New South Wales" ; Times: 3
+	Query: "Chilatherina campsi mappable:1" ; Times: 1
+	Query: "Dobsonia peronii" ; Times: 1
+	Query: "Hipposcarus longiceps mappable:1" ; Times: 1
+	Query: "Phoniscus papuensis" ; Times: 1
+	Query: "pterodroma pycrofti" ; Times: 4
+	Query: "Phoniscus jagorii" ; Times: 1
+	Query: "Rhinolophus malayanus" ; Times: 1
+	Query: "Dobsonia moluccensis" ; Times: 1
+	Query: "Hipposideros megalotis" ; Times: 1
+	Query: "Cynopterus titthaecheilus" ; Times: 1
+	Query: "turtur campbell" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Calotomus carolinus mappable:1" ; Times: 3
+	Query: "Aethalops aequalis" ; Times: 1
+	Query: "Coelops frithii" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Melanotaenia lakamora mappable:1" ; Times: 1
+	Query: "norfolkia brachylepis" ; Times: 1
+	Query: "R27452" ; Times: 1
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "Emballonura monticola" ; Times: 1
+	Query: "Melanotaenia angfa mappable:1" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "Hypoatherina tropicalis mappable:1" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Rhinopoma microphyllum" ; Times: 1
+	Query: "Melanotaenia sylvatica mappable:1" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 4
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Vespadelus" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:aethiops" ; Times: 1
+	Query: "Melanotaenia arfakensis mappable:1" ; Times: 1
+	Query: "Macroderma gigas" ; Times: 2
+	Query: "Dobsonia beauforti" ; Times: 1
+	Query: "Dobsonia pannietensis" ; Times: 1
+	Query: "Kestratherina esox mappable:1" ; Times: 1
+	Query: "Miniopterus australis" ; Times: 1
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "Melanotaenia misoolensis mappable:1" ; Times: 1
+	Query: "Melanotaenia nigrans mappable:1" ; Times: 1
+	Query: "Hipposideros armiger" ; Times: 1
+	Query: "Hipposideros semoni" ; Times: 1
+	Query: "Taphozous kapalgensis" ; Times: 1
+	Query: "Taphozous melanopogon" ; Times: 1
+	Query: "Melanotaenia maccullochi mappable:1" ; Times: 1
+	Query: "Micropteropus pusillus" ; Times: 2
+	Query: "Rhinolophus megaphyllus" ; Times: 1
+	Query: "griffithsi" ; Times: 1
+	Query: "Hipposideros pomona" ; Times: 1
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "Glossolepis incisus mappable:1" ; Times: 1
+	Query: "Leptatherina presbyteroides mappable:1" ; Times: 1
+	Query: "Taphozous mauritianus" ; Times: 1
+	Query: "Pipistrellus coromandra" ; Times: 1
+	Query: "Scarus frenatus mappable:1" ; Times: 1
+	Query: "Irolita waitii" ; Times: 1
+	Query: "Vespadelus douglasorum" ; Times: 1
+	Query: "aspidites melanocephalus institutioncode:WAM" ; Times: 1
+	Query: "Melanotaenia gracilis mappable:1" ; Times: 1
+	Query: "Melanotaenia affinis mappable:1" ; Times: 1
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "Melanotaenia caerulea mappable:1" ; Times: 1
+	Query: "Melanotaenia monticola mappable:1" ; Times: 1
+	Query: "Craterocephalus gloveri mappable:1" ; Times: 1
+	Query: "Chalinolobus nigrogriseus" ; Times: 1
+	Query: "Vespadelus troughtoni" ; Times: 1
+	Query: "Aselliscus tricuspidatus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Megadermatidae" ; Times: 2
+	Query: "Craterocephalus fistularis mappable:1" ; Times: 1
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "Acerodon celebensis" ; Times: 1
+	Query: "Sundamys muelleri" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "Craterocephalus centralis mappable:1" ; Times: 1
+	Query: "Scotorepens sanborni" ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "Melanotaenia splendida tatei mappable:1" ; Times: 1
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "Notechis institutioncode:WAM" ; Times: 1
+	Query: "Chlorurus sordidus mappable:1" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nyctophilus" ; Times: 3
+	Query: "Hipposideros calcaratus" ; Times: 1
+	Query: "Mops nanulus" ; Times: 2
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "Thoopterus nigrescens" ; Times: 1
+	Query: "CIRCUS AERUGINOSUS" ; Times: 2
+	Query: "Pellorneum tickelli" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "Nyctereutes" ; Times: 1
+	Query: "Scarus flavipectoralis mappable:1" ; Times: 1
+	Query: "Nyctophilus gouldi" ; Times: 1
+	Query: "morelia amethistina institutioncode:WAM" ; Times: 2
+	Query: "Glareola maldivarum" ; Times: 3
+	Query: "Tadarida australis" ; Times: 1
+	Query: "Aethalops alecto" ; Times: 1
+	Query: "Austrelaps institutioncode:WAM" ; Times: 1
+	Query: "Myotis ater" ; Times: 2
+	Query: "Iriatherina werneri mappable:1" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "MAMM (6657)" ; Times: 2
+	Query: "notechis institutioncode:WAM" ; Times: 1
+	Query: "Leontopithecus chrysomelas" ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "Miniopterus shortridgei" ; Times: 2
+	Query: "Nycteris javanica" ; Times: 2
+	Query: "Dobsonia inermis" ; Times: 1
+	Query: "Coleura afra" ; Times: 1
+	Query: "Rhinolophus celebensis" ; Times: 1
+	Query: "Dobsonia exoleta" ; Times: 1
+	Query: "Pipistrellus stenopterus" ; Times: 1
+	Query: "Macroglossus sobrinus" ; Times: 2
+	Query: "Dobsonia magna" ; Times: 1
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "Kerivoula papillosa" ; Times: 2
+	Query: "norfolkia" ; Times: 2
+	Query: "Mops mops" ; Times: 2
+	Query: "Rhinolophus acuminatus" ; Times: 1
+	Query: "Epomophorus crypturus" ; Times: 1
+	Query: "dendrelaphis institutioncode:WAM" ; Times: 3
+	Query: "Demansia olivacea institutioncode:WAM" ; Times: 1
+	Query: "Kerivoula picta" ; Times: 2
+	Query: "Craterocephalus pimatuae mappable:1" ; Times: 1
+	Query: "Peponocephala electra" ; Times: 1
+	Query: "Hipposideros lankadiva" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Scarus ferrugineus mappable:1" ; Times: 1
+	Query: "Scarus chameleon mappable:1" ; Times: 1
+	Query: "polygrammicus" ; Times: 1
+	Query: "Melanotaenia pierucciae mappable:1" ; Times: 1
+	Query: "dendrelaphis punctulata institutioncode:WAM" ; Times: 1
+	Query: "Demansia angusticeps institutioncode:WAM" ; Times: 1
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "anguilla marmorata" ; Times: 1
+	Query: "Craterocephalus helenae mappable:1" ; Times: 1
+	Query: "Hypoatherina ovalaua mappable:1" ; Times: 1
+	Query: "Nyctophilus major" ; Times: 1
+	Query: "Rhinonicteris aurantia" ; Times: 1
+	Query: "Hesperoptenus blanfordi" ; Times: 1
+	Query: "hirundo tahitica india" ; Times: 1
+	Query: "r65401" ; Times: 1
+	Query: "Craterocephalus lacustris mappable:1" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Rousettus spinalatus" ; Times: 1
+	Query: "Craterocephalus kailolae mappable:1" ; Times: 1
+	Query: "Melanotaenia fluviatilis mappable:1" ; Times: 1
+	Query: "(schofield)" ; Times: 1
+	Query: "Lavia frons" ; Times: 2
+	Query: "Vespadelus caurinus" ; Times: 1
+	Query: "Miniopterus medius" ; Times: 2
+	Query: "rattus steini" ; Times: 2
+	Query: "Chalinolobus morio" ; Times: 1
+	Query: "Kerivoula minuta" ; Times: 2
+	Query: "Megaderma lyra" ; Times: 2
+	Query: "Rhinolophus keyensis" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Falsistrellus" ; Times: 2
+	Query: "Atherion elymus mappable:1" ; Times: 2
+	Query: "Epomophorus minor" ; Times: 1
+	Query: "Rhinolophus lepidus" ; Times: 1
+	Query: "recordedby:r johnstone" ; Times: 2
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "Mormopterus loriae" ; Times: 2
+	Query: "Rhinolophus euryotis" ; Times: 1
+	Query: "genus:Oryx specificepithet:beisa" ; Times: 2
+	Query: "Aselliscus stoliczkanus" ; Times: 1
+	Query: "Vespadelus finlaysoni" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Craterocephalus pauciradiatus mappable:1" ; Times: 1
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "Miniopterus macrocneme" ; Times: 2
+	Query: "Acrocephalus stentoreus" ; Times: 3
+	Query: "Hipposideros ater" ; Times: 1
+	Query: "Cheiromeles torquatus" ; Times: 1
+	Query: "Vespadelus baverstocki" ; Times: 1
+	Query: "Hipposideros galeritus" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Saccolaimus flaviventris" ; Times: 1
+	Query: "Scotophilus temminckii" ; Times: 1
+	Query: "Hipposideros madurae" ; Times: 1
+	Query: "Scarus quoyi mappable:1" ; Times: 1
+	Query: "Syconycteris hobbit" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 853 download events in this period)
+Total number of records downloaded: 551
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Taiwan ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 6
+	Date: 2020-03-18 ; Times: 11
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 8
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-12 ; Times: 5
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Falcunculus stateprovince:&#34;Western Australia&#34;" ; Times: 2
+	Query: "heloderma" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Symbolophorus barnardi" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Chalinolobus" ; Times: 2
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "griffithsi" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 6
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nyctophilus" ; Times: 3
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Falsistrellus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Scotorepens" ; Times: 1
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Megadermatidae" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Vespadelus" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH PTEROPODIDAE" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+
+
+End of report.

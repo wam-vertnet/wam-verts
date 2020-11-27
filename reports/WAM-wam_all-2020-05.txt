@@ -1,0 +1,258 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 183
+Number of records retrieved in searches: 2956
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 101
+	Country: Australia ; Times: 13
+	Country: Indonesia ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Nepal ; Times: 5
+	Country: India ; Times: 16
+	Country: United Kingdom ; Times: 3
+	Country: Malaysia ; Times: 1
+	Country: Vietnam ; Times: 4
+	Country: Germany ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Iraq ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 29
+	Date: 2020-05-24 ; Times: 9
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 10
+	Date: 2020-05-20 ; Times: 7
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-29 ; Times: 14
+	Date: 2020-05-28 ; Times: 5
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-11 ; Times: 13
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 2
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 5
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-07 ; Times: 22
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 9
+	Date: 2020-05-02 ; Times: 3
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "werne" ; Times: 1
+	Query: "Gymnothorax pictus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandvicensis genus:Sterna" ; Times: 2
+	Query: "Solenostomus" ; Times: 3
+	Query: "Trimeresurus albolabris" ; Times: 4
+	Query: "squatina squatina" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "AK 9175" ; Times: 1
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "Uropterygius versutus" ; Times: 3
+	Query: "Yemen" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "inegocia japonica" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "halimochirurgus centriscoides" ; Times: 1
+	Query: "Gymnothorax dovii" ; Times: 1
+	Query: "Caprimulgus affinis" ; Times: 2
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "foetorepus calauropomus" ; Times: 1
+	Query: "charadrius rubricollis" ; Times: 2
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 3
+	Query: "Abalistes stellaris mappable:1" ; Times: 6
+	Query: "genus:Myobatrachus institutioncode:WAM" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 2
+	Query: "Pardalotus punctatus taylor" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 1
+	Query: "litoria lutea" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Cryptophis boschmai" ; Times: 1
+	Query: "genus:Myobatrachus" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "Gymnothorax javanicus" ; Times: 1
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "hirundo tahitica" ; Times: 1
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 1
+	Query: "Gastrocyathus gracilis" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Apus pacificus" ; Times: 7
+	Query: "specificepithet:peronii genus:hemiergis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Sphenodon" ; Times: 4
+	Query: "Todiramphus Aru" ; Times: 1
+	Query: "Chaerephon jobensis" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "lepidocybium" ; Times: 1
+	Query: "Manis crassicaudata" ; Times: 1
+	Query: "Litoria lutea" ; Times: 1
+	Query: "Proterorhinus marmoratus" ; Times: 1
+	Query: "Gymnothorax eurostus" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "parvicrepis" ; Times: 1
+	Query: "hyperlophus vittatus" ; Times: 1
+	Query: "Gymnothorax panamensis" ; Times: 1
+	Query: "gymnothorax eurostus" ; Times: 2
+	Query: "heraldia nocturna" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "dactylopus dactylopus" ; Times: 2
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "genus:Setonix institutioncode:WAM" ; Times: 1
+	Query: "Eleotris melanosoma" ; Times: 1
+	Query: "class:Amphibia institutioncode:WAM" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "brachypteryx montana" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "Pareas" ; Times: 2
+	Query: "haliichthys taeniophorus" ; Times: 1
+	Query: "country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "taylor Pardalotus punctatus" ; Times: 1
+	Query: "specificepithet:lepidopodus genus:pygopus" ; Times: 9
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 1
+	Query: "grammatobothus polyophthalmus" ; Times: 1
+	Query: "euristhmus lepturus" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "country:&#34;australia&#34; recordedby:breeden" ; Times: 4
+	Query: "favonigobius lateralis" ; Times: 2
+	Query: "specificepithet:erosa genus:erosa" ; Times: 2
+	Query: "Acanthophis" ; Times: 2
+	Query: "Grampus griseus" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:macrodon" ; Times: 1
+	Query: "crossosalarias macrospilus" ; Times: 1
+	Query: "genus:Arenophryne institutioncode:WAM" ; Times: 2
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "eutropis carinata" ; Times: 2
+	Query: "Halcyon Aru" ; Times: 1
+	Query: "genus:Crinia specificepithet:riparia" ; Times: 1
+	Query: "genus:Limnonectes specificepithet:malesianus" ; Times: 1
+	Query: "Halcyon OR Todiramphus Tanimbar" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 8
+	Query: "plestiodon anthracinus anthracinus" ; Times: 2
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "iracundus signifer" ; Times: 1
+	Query: "specificepithet:carduelis genus:Carduelis continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Solenostomus halimeda" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1106 download events in this period)
+Total number of records downloaded: 31085
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 14
+	Country: Australia ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "Eutropis rudis" ; Times: 1
+	Query: "genus:Setonix institutioncode:WAM" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "melursus ursinus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "Emoia loveridgei" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Carlia schmeltzii" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Sphenomorphus woodfordi" ; Times: 1
+	Query: "Cryptophis boschmai" ; Times: 1
+	Query: "genus:Myobatrachus" ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "class:Amphibia institutioncode:WAM" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+
+
+End of report.

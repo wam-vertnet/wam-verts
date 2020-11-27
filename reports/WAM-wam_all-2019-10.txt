@@ -1,0 +1,547 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 806
+Number of records retrieved in searches: 13393
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 431
+	Country: Australia ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 12
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Belgium ; Times: 10
+	Country: Japan ; Times: 5
+	Country: Argentina ; Times: 9
+	Country: New Zealand ; Times: 251
+	Country: Brazil ; Times: 18
+	Country: Benin ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 10
+	Date: 2019-10-21 ; Times: 170
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 99
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 39
+	Date: 2019-10-02 ; Times: 8
+	Date: 2019-10-05 ; Times: 50
+	Date: 2019-10-04 ; Times: 64
+	Date: 2019-10-07 ; Times: 24
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-23 ; Times: 161
+	Date: 2019-10-22 ; Times: 8
+	Date: 2019-10-29 ; Times: 35
+	Date: 2019-10-18 ; Times: 25
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-10 ; Times: 7
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-30 ; Times: 15
+	Date: 2019-10-31 ; Times: 8
+	Date: 2019-10-14 ; Times: 7
+	Date: 2019-10-17 ; Times: 19
+	Date: 2019-10-15 ; Times: 14
+	Date: 2019-10-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "rhea pennata" ; Times: 1
+	Query: "Loxodon" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Neophema" ; Times: 2
+	Query: "Paramonacanthus filicauda mappable:1" ; Times: 2
+	Query: "Acreichthys radiatus mappable:1" ; Times: 2
+	Query: "Bos gaurus" ; Times: 1
+	Query: "Asymbolus submaculatus" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 5
+	Query: "SP 9397" ; Times: 1
+	Query: "genus:aprasia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 2
+	Query: "chameleon" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Pseudomonacanthus macrurus mappable:1" ; Times: 2
+	Query: "specificepithet:berus genus:Vipera country:&#34;Germany&#34;" ; Times: 1
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "family:Alcedinidae locality:Long" ; Times: 1
+	Query: "Stercorariidae continent:Oceania" ; Times: 6
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Eubalichthys caeruleoguttatus mappable:1" ; Times: 2
+	Query: "Myliobatis australis" ; Times: 2
+	Query: "Stephanolepis diaspros mappable:1" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 3
+	Query: "specificepithet:dohertyi genus:Zoothera" ; Times: 2
+	Query: "Pseudorhombus megalops" ; Times: 1
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "Carcharhinus sorrah" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Pseudalutarius nasicornis mappable:1" ; Times: 2
+	Query: "Hemipristis elongata" ; Times: 2
+	Query: "polypteriformes" ; Times: 1
+	Query: "Apristurus manis" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "Carcharhinus altimus" ; Times: 2
+	Query: "Carcharhinus amboinensis" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Mus musculus 1995" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Parascyllium variolatum" ; Times: 1
+	Query: "Eubalichthys bucephalus mappable:1" ; Times: 2
+	Query: "Thamnaconus tessellatus mappable:1" ; Times: 2
+	Query: "institutioncode:WAM Psittacula" ; Times: 2
+	Query: "genus:Halcyon locality:Tanimbar" ; Times: 2
+	Query: "Draco volans" ; Times: 2
+	Query: "Centroscymnus owstonii" ; Times: 2
+	Query: "Mus musculus 1993" ; Times: 2
+	Query: "Halaelurus boesemani" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "Paramonacanthus pusillus mappable:1" ; Times: 2
+	Query: "Meuschenia trachylepis mappable:1" ; Times: 2
+	Query: "Narcine lasti" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 2
+	Query: "Acanthaluteres spilomelanurus mappable:1" ; Times: 2
+	Query: "Mus musculus 1998" ; Times: 2
+	Query: "Orectolobus reticulatus" ; Times: 1
+	Query: "Jehl AND Island" ; Times: 1
+	Query: "gag island pachycephala" ; Times: 2
+	Query: "Narcine atzi" ; Times: 1
+	Query: "Squalus crassispinus" ; Times: 1
+	Query: "Psephotus chrysopterygius" ; Times: 10
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Thamnaconus hypargyreus mappable:1" ; Times: 2
+	Query: "Cyanoramphus" ; Times: 2
+	Query: "Geothlypis flavovelata vntype:specimen" ; Times: 1
+	Query: "Hydrolagus lemures" ; Times: 1
+	Query: "Rudarius excelsus mappable:1" ; Times: 2
+	Query: "M1607" ; Times: 1
+	Query: "Hemigaleus australiensis" ; Times: 2
+	Query: "Myotis sodalis 2016" ; Times: 1
+	Query: "Sinobatis bulbicauda" ; Times: 1
+	Query: "Pavoraja nitida" ; Times: 1
+	Query: "Acanthaluteres vittiger mappable:1" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Centroscymnus plunketi" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "class:Aves country:&#34;India&#34; Travancore" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae (zoo)" ; Times: 1
+	Query: "Pristis microdon" ; Times: 1
+	Query: "Diceros" ; Times: 1
+	Query: "diplophos" ; Times: 2
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Trygonorrhina fasciata" ; Times: 2
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "specificepithet:repens genus:aprasia family:pygopodidae basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "WAM A22075" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Urogymnus asperrimus" ; Times: 2
+	Query: "Halcyon australasia" ; Times: 1
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "Notomys mitchellii" ; Times: 1
+	Query: "Okamejei leptoura" ; Times: 1
+	Query: "Paramonacanthus japonicus mappable:1" ; Times: 4
+	Query: "Trygonoptera mucosa" ; Times: 1
+	Query: "Hemiscyllium henryi" ; Times: 1
+	Query: "Cantheschenia grandisquamis mappable:1" ; Times: 2
+	Query: "Hypogaleus hyugaensis" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "specificepithet:chalconota genus:Hylarana" ; Times: 1
+	Query: "Pervagor spilosoma mappable:1" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "specificepithet:phrygia genus:Xanthomyza" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Urolophus lobatus" ; Times: 2
+	Query: "Furgaleus macki" ; Times: 2
+	Query: "Cantherhines nukuhiva mappable:1" ; Times: 2
+	Query: "toxotes" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Lucasium immaculatum mappable:1" ; Times: 1
+	Query: "Trygonoptera personata" ; Times: 1
+	Query: "Cantherhines longicaudus mappable:1" ; Times: 2
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "specificepithet:australasia genus:Halcyon" ; Times: 2
+	Query: "Trygonoptera ovalis" ; Times: 1
+	Query: "Paramonacanthus arabicus mappable:1" ; Times: 4
+	Query: "Squalus megalops" ; Times: 2
+	Query: "genus:Todiramphus locality:Tanimbar" ; Times: 4
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Rudarius ercodes mappable:1" ; Times: 2
+	Query: "Urolophus bucculentus" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "genus:pogona stateprovince:&#34;queensland&#34;" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Asymbolus vincenti" ; Times: 1
+	Query: "Colurodontis paxmani mappable:1" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "Amanses scopas mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "Urolophus sufflavus" ; Times: 1
+	Query: "Nebrius ferrugineus" ; Times: 2
+	Query: "Urolophus westraliensis" ; Times: 1
+	Query: "Paraluteres prionurus mappable:1" ; Times: 2
+	Query: "Asymbolus analis" ; Times: 2
+	Query: "raptors" ; Times: 1
+	Query: "Geothlypis flavovelata" ; Times: 2
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "genus:Nephrurus stateprovince:&#34;Queensland&#34;" ; Times: 9
+	Query: "WAM A25183" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 10
+	Query: "Pervagor janthinosoma mappable:1" ; Times: 2
+	Query: "gray fox" ; Times: 6
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Dalatias licha" ; Times: 2
+	Query: "Hippocampus subelongatus" ; Times: 3
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "Mesoplodon grayi" ; Times: 1
+	Query: "Meuschenia australis mappable:1" ; Times: 2
+	Query: "Meuschenia venusta mappable:1" ; Times: 2
+	Query: "Chinchilla chinchilla" ; Times: 2
+	Query: "oenpelli" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "WAM A23253" ; Times: 1
+	Query: "Squalus nasutus" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Mus musculus 1979" ; Times: 2
+	Query: "Etmopterus brachyurus" ; Times: 1
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1973" ; Times: 4
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "Mus musculus 1974" ; Times: 4
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "Chromis margaritifer" ; Times: 2
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "donkey" ; Times: 2
+	Query: "Pseudorhombus jenynsii" ; Times: 1
+	Query: "Acanthaluteres brownii mappable:1" ; Times: 2
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "specificepithet:skua genus:Catharacta" ; Times: 1
+	Query: "Pseudomonacanthus peroni mappable:1" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Asymbolus parvus" ; Times: 1
+	Query: "Narcine westraliensis" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Rattus norvegicus 1985" ; Times: 1
+	Query: "Rattus norvegicus 1986" ; Times: 1
+	Query: "Calidris tenuirostris" ; Times: 2
+	Query: "Anacanthus barbatus mappable:1" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Thamnaconus melanoproctes mappable:1" ; Times: 6
+	Query: "Pervagor nigrolineatus mappable:1" ; Times: 2
+	Query: "Neotrygon ningalooensis" ; Times: 2
+	Query: "Pervagor marginalis mappable:1" ; Times: 2
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "specificepithet:fuscata family:estrildidae class:aves" ; Times: 1
+	Query: "&#34;Cheilopogon cyanopterus&#34;" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Sinobatis caerulea" ; Times: 1
+	Query: "Pseudomonacanthus elongatus mappable:1" ; Times: 2
+	Query: "Urolophus circularis" ; Times: 1
+	Query: "Chromis agilis" ; Times: 1
+	Query: "Pervagor aspricaudus mappable:1" ; Times: 2
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Hexanchus nakamurai" ; Times: 2
+	Query: "funambulus tristriatus" ; Times: 1
+	Query: "Neotrygon kuhlii" ; Times: 2
+	Query: "Eubalichthys mosaicus mappable:1" ; Times: 2
+	Query: "Figaro boardmani" ; Times: 1
+	Query: "Urolophus viridis" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 2
+	Query: "Scobinichthys granulatus mappable:1" ; Times: 2
+	Query: "Eubalichthys cyanoura mappable:1" ; Times: 2
+	Query: "Leucoraja pristispina" ; Times: 1
+	Query: "Paramonacanthus otisensis mappable:1" ; Times: 2
+	Query: "Meuschenia freycineti mappable:1" ; Times: 2
+	Query: "WAM A24382" ; Times: 1
+	Query: "Thamnaconus modestoides mappable:1" ; Times: 2
+	Query: "WAM A22682" ; Times: 1
+	Query: "Pavoraja alleni" ; Times: 1
+	Query: "Mus musculus 1997" ; Times: 2
+	Query: "Urolophus paucimaculatus" ; Times: 2
+	Query: "Pseudorhombus diplospilus" ; Times: 1
+	Query: "Megachasma pelagios" ; Times: 2
+	Query: "Rattus norvegicus 1972" ; Times: 1
+	Query: "Rudarius minutus mappable:1" ; Times: 2
+	Query: "Rattus norvegicus 1978" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Stephanolepis auratus mappable:1" ; Times: 2
+	Query: "Cantherhines verecundus mappable:1" ; Times: 2
+	Query: "Thamnaconus degeni mappable:1" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Atelomycterus macleayi" ; Times: 1
+	Query: "Urolophus gigas" ; Times: 2
+	Query: "Thamnaconus striatus mappable:1" ; Times: 2
+	Query: "Mus musculus 1983" ; Times: 2
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Apristurus platyrhynchus" ; Times: 2
+	Query: "Mus musculus 1980" ; Times: 2
+	Query: "Mus musculus 1987" ; Times: 2
+	Query: "Mus musculus 1986" ; Times: 4
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "Mus musculus 1984" ; Times: 2
+	Query: "Mus musculus 1989" ; Times: 2
+	Query: "Mus musculus 1988" ; Times: 2
+	Query: "Orectolobus wardi" ; Times: 1
+	Query: "genus:oxyuranus stateprovince:&#34;queensland&#34;" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "WAM A24561" ; Times: 2
+	Query: "Mus musculus 2007" ; Times: 2
+	Query: "Mus musculus 2006" ; Times: 2
+	Query: "Mus musculus 2005" ; Times: 2
+	Query: "Mus musculus 2004" ; Times: 2
+	Query: "Mus musculus 2003" ; Times: 6
+	Query: "Mus musculus 2002" ; Times: 4
+	Query: "Mus musculus 2001" ; Times: 2
+	Query: "Mus musculus 2000" ; Times: 4
+	Query: "Mus musculus 2009" ; Times: 2
+	Query: "Mus musculus 2008" ; Times: 2
+	Query: "Squatina pseudocellata" ; Times: 1
+	Query: "Nyctophilus arnhemensis" ; Times: 2
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "Cantherhines rapanui mappable:1" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "WAM A23445" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 2
+	Query: "Hemiscyllium galei" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Gymnura australis" ; Times: 2
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "genus:Ardeotis australis" ; Times: 4
+	Query: "IRL 002" ; Times: 1
+	Query: "Aptychotrema vincentiana" ; Times: 2
+	Query: "genus:ardeotis australia" ; Times: 7
+	Query: "WAM A24323" ; Times: 1
+	Query: "Hemiscyllium trispeculare" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "recordedby:Armitage" ; Times: 1
+	Query: "Cephaloscyllium speccum" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Meuschenia flavolineata mappable:1" ; Times: 2
+	Query: "Glyphis glyphis" ; Times: 1
+	Query: "Rhina ancylostoma" ; Times: 2
+	Query: "Paraluteres arqat mappable:1" ; Times: 2
+	Query: "Eubalichthys gunnii mappable:1" ; Times: 2
+	Query: "Orectolobus floridus" ; Times: 1
+	Query: "WAM A24420" ; Times: 1
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Eucrossorhinus dasypogon" ; Times: 2
+	Query: "Glyphis garricki" ; Times: 1
+	Query: "Meuschenia scaber mappable:1" ; Times: 2
+	Query: "genus:oxyuranus stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "Acreichthys tomentosus mappable:1" ; Times: 2
+	Query: "Spheniscus" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Lucasium steindachneri mappable:1" ; Times: 1
+	Query: "Dasyatis thetidis" ; Times: 2
+	Query: "Cephaloscyllium albipinnum" ; Times: 1
+	Query: "genus:emblema class:aves" ; Times: 2
+	Query: "Cephaloscyllium hiscosellum" ; Times: 1
+	Query: "Ficedula harterti vntype:specimen" ; Times: 1
+	Query: "Heleia" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Squalus melanurus" ; Times: 2
+	Query: "Irolita waitii" ; Times: 1
+	Query: "trimeresurus albolabris" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Cantheschenia longipinnis mappable:1" ; Times: 2
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "Hemitriakis falcata" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "Rattus norvegicus 1992" ; Times: 1
+	Query: "poephila cincta" ; Times: 9
+	Query: "hylarana baramica" ; Times: 1
+	Query: "Neobatrachus aquilonius" ; Times: 1
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Brachaluteres taylori mappable:1" ; Times: 2
+	Query: "Parascyllium ferrugineum" ; Times: 2
+	Query: "WAM A23505" ; Times: 1
+	Query: "Fejervarya verruculosa" ; Times: 2
+	Query: "Mustelus ravidus" ; Times: 1
+	Query: "Hippocampus spinosissimus" ; Times: 1
+	Query: "family:Alcedinidae locality:Russell" ; Times: 1
+	Query: "Pseudotriakis microdon" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "ziphius" ; Times: 1
+	Query: "Orectolobus parvimaculatus" ; Times: 1
+	Query: "malthopsis" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "Cephaloscyllium laticeps" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Halaelurus sellus" ; Times: 1
+	Query: "Aulohalaelurus labiosus" ; Times: 1
+	Query: "gag island aves" ; Times: 2
+	Query: "Meuschenia hippocrepis mappable:1" ; Times: 2
+	Query: "Brachaluteres jacksonianus mappable:1" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Meuschenia galii mappable:1" ; Times: 2
+	Query: "funambulus" ; Times: 2
+	Query: "WAM A24778" ; Times: 1
+	Query: "Plesiobatis daviesi" ; Times: 2
+	Query: "Chromis iomelas" ; Times: 3
+	Query: "specificepithet:Burtonis genus:Lialis stateprovince:&#34;Queensland&#34;" ; Times: 2
+	Query: "Mus musculus 1994" ; Times: 2
+	Query: "Etmopterus bigelowi" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Mus musculus 1990" ; Times: 2
+	Query: "Mus musculus 1992" ; Times: 2
+	Query: "Cantherhines fronticinctus mappable:1" ; Times: 2
+	Query: "Paramonacanthus choirocephalus mappable:1" ; Times: 2
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "Mus musculus 1999" ; Times: 4
+	Query: "Euprotomicrus bispinatus" ; Times: 2
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "wam monarcha" ; Times: 1
+	Query: "Mus musculus 2018" ; Times: 1
+	Query: "Urolophus flavomosaicus" ; Times: 1
+	Query: "Mus musculus 2011" ; Times: 2
+	Query: "Mus musculus 2012" ; Times: 4
+	Query: "Nephrurus asper" ; Times: 4
+	Query: "Thamnaconus multilineatus mappable:1" ; Times: 6
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "kogia breviceps" ; Times: 21
+	Query: "Neophema chrysogaster" ; Times: 2
+	Query: "Urolophus expansus" ; Times: 2
+	Query: "Trygonoptera galba" ; Times: 1
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "rousettus lanosus" ; Times: 1
+	Query: "Hemiscyllium ocellatum" ; Times: 2
+	Query: "Eubalichthys quadrispinis mappable:1" ; Times: 2
+	Query: "eryx johni" ; Times: 1
+	Query: "Squalus grahami" ; Times: 1
+	Query: "Squatina tergocellata" ; Times: 1
+	Query: "Pervagor alternans mappable:1" ; Times: 4
+	Query: "Carcharhinus cautus" ; Times: 2
+	Query: "Atelomycterus fasciatus" ; Times: 1
+	Query: "Hemiscyllium michaeli" ; Times: 1
+	Query: "Centroscyllium kamoharai" ; Times: 1
+	Query: "kerivoula" ; Times: 1
+	Query: "Stephanolepis cirrhifer" ; Times: 2
+	Query: "Squalus montalbani" ; Times: 1
+	Query: "Halcyon australasia australasia" ; Times: 3
+	Query: "Narke japonica" ; Times: 2
+	Query: "Paramonacanthus lowei mappable:1" ; Times: 4
+	Query: "Stephanolepis cirrhifer mappable:1" ; Times: 8
+	Query: "Orectolobus hutchinsi" ; Times: 2
+	Query: "Jehl AND Island NOT Jersey NOT Ocean" ; Times: 1
+	Query: "WAM A24727" ; Times: 1
+	Query: "WAM A24729" ; Times: 1
+	Query: "specificepithet:pictum genus:emblema class:aves" ; Times: 2
+	Query: "Lalmohania velutina mappable:1" ; Times: 2
+	Query: "Squatina australis" ; Times: 2
+	Query: "aprasia" ; Times: 1
+	Query: "Loxodon macrorhinus" ; Times: 2
+	Query: "Sutorectus tentaculatus" ; Times: 2
+	Query: "Kogia" ; Times: 1
+	Query: "Cirrhigaleus barbifer" ; Times: 1
+	Query: "Galeus gracilis" ; Times: 1
+	Query: "Hemiscyllium freycineti" ; Times: 1
+	Query: "Pristis clavata" ; Times: 2
+	Query: "Squalus edmundsi" ; Times: 1
+	Query: "Pervagor randalli mappable:1" ; Times: 4
+	Query: "Pristiophorus nudipinnis" ; Times: 2
+	Query: "corvus splendens" ; Times: 1
+	Query: "Heterodontus zebra" ; Times: 2
+	Query: "Nelusetta ayraud mappable:1" ; Times: 2
+	Query: "Hemiscyllium halmahera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1308 download events in this period)
+Total number of records downloaded: 1137
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 5
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Neophema chrysogaster" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "funambulus" ; Times: 2
+	Query: "genus:aprasia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 1
+	Query: "Pnoepyga" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "prasinohaema" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Halcyon australasia australasia" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "diglossa" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "amethystina" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "Geothlypis flavovelata" ; Times: 2
+
+
+End of report.

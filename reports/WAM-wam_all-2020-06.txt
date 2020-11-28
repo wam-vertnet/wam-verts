@@ -1,0 +1,267 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 982
+Number of records retrieved in searches: 13213
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 287
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 670
+	Country: Djibouti ; Times: 1
+	Country: China ; Times: 8
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Bolivia ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-08 ; Times: 18
+	Date: 2020-06-09 ; Times: 47
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 8
+	Date: 2020-06-05 ; Times: 13
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 7
+	Date: 2020-06-10 ; Times: 360
+	Date: 2020-06-15 ; Times: 111
+	Date: 2020-06-11 ; Times: 223
+	Date: 2020-06-12 ; Times: 68
+	Date: 2020-06-17 ; Times: 117
+
+List of queries that retrieved data from the resource: 
+	Query: "papagomys" ; Times: 1
+	Query: "Ambassis miops" ; Times: 6
+	Query: "Salmo trutta" ; Times: 9
+	Query: "genus:bunomys country:indonesia" ; Times: 2
+	Query: "chrysocomus" ; Times: 1
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "djibouti" ; Times: 1
+	Query: "scartelaos histophorus" ; Times: 1
+	Query: "genus:niviventer" ; Times: 1
+	Query: "paraplotosus albilabris" ; Times: 3
+	Query: "Encrasicholina devisi" ; Times: 6
+	Query: "Takifugu poecilonotus" ; Times: 6
+	Query: "Liza carinata" ; Times: 6
+	Query: "samaris cristatus" ; Times: 1
+	Query: "Lagocephalus gloveri" ; Times: 6
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "neocyttus rhomboidalis" ; Times: 2
+	Query: "pataecus fronto" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "maxomys surifer sumatra" ; Times: 2
+	Query: "Cairina moschata" ; Times: 3
+	Query: "paulamys" ; Times: 1
+	Query: "Cypselurus poecilopterus" ; Times: 6
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Coelognathus subradiatus" ; Times: 1
+	Query: "Taenioides anguillaris" ; Times: 6
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Epinephelus multinotatus" ; Times: 2
+	Query: "genus:maxomys" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "Cheilopogon suttoni" ; Times: 6
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Hirundichthys oxycephalus" ; Times: 6
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "parma microlepis" ; Times: 1
+	Query: "specificepithet:subcinctus country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Dermogenys pusilla" ; Times: 6
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Ambassis vachellii" ; Times: 6
+	Query: "Stolephorus insularis" ; Times: 12
+	Query: "phycodurus eques" ; Times: 1
+	Query: "onigocia macrolepis" ; Times: 1
+	Query: "malus" ; Times: 1
+	Query: "maxomys surifer" ; Times: 3
+	Query: "Plotosus canius" ; Times: 6
+	Query: "Pungitius platygaster" ; Times: 6
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "harpia" ; Times: 1
+	Query: "Johnius belangerii" ; Times: 6
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "morelia nauta" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "macruronus novaezelandiae" ; Times: 1
+	Query: "genus:rattus country:indonesia" ; Times: 1
+	Query: "trimeresurus" ; Times: 2
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "genus:hylomys" ; Times: 13
+	Query: "Cyclocheilichthys armatus" ; Times: 6
+	Query: "bunomys fratrorum" ; Times: 1
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "Hemibagrus nemurus" ; Times: 6
+	Query: "monster" ; Times: 1
+	Query: "genus:maxomys surifer" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "lesueurina platycephala" ; Times: 1
+	Query: "Channa striata" ; Times: 12
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Arius arius" ; Times: 12
+	Query: "macolor niger" ; Times: 1
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "Netuma bilineata" ; Times: 6
+	Query: "Johnius borneensis" ; Times: 9
+	Query: "pseudalutarius nasicornis" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "bunomys" ; Times: 150
+	Query: "Taenioides cirratus" ; Times: 6
+	Query: "genus:trimeresurus" ; Times: 1
+	Query: "Siganus spinus" ; Times: 6
+	Query: "Neoarius graeffei" ; Times: 6
+	Query: "Alepes kleinii" ; Times: 9
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Decapterus muroadsi" ; Times: 6
+	Query: "genus:mus country:indonesia" ; Times: 5
+	Query: "lenomys" ; Times: 2
+	Query: "sphyrna zygaena" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Hilsa kelee" ; Times: 12
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 3
+	Query: "prionodraco evansii" ; Times: 6
+	Query: "phosichthys argenteus" ; Times: 1
+	Query: "snyderina yamanokami" ; Times: 1
+	Query: "genus:pithecheir" ; Times: 3
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "genus:bunomys country:indonesia institutioncode:wam" ; Times: 7
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "genus:bunomys" ; Times: 12
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "specificepithet:subcinctus stateprovince:&#34;tenggara&#34; country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Nemipterus furcosus" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "paruromys" ; Times: 2
+	Query: "Bos taurus" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Paramonacanthus pusillus" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+	Query: "specificepithet:meleagris order:galliformes" ; Times: 1
+	Query: "locality:Sudest country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "niviventer cremoriventer" ; Times: 1
+	Query: "Sillago sihama" ; Times: 6
+	Query: "schismorhynchus labialis" ; Times: 1
+	Query: "bos gaurus" ; Times: 2
+	Query: "Netuma thalassina" ; Times: 12
+	Query: "Cheilopogon arcticeps" ; Times: 6
+	Query: "genus:mus recordedby:erickson" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Ompok siluroides" ; Times: 6
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "mustelus manazo" ; Times: 2
+	Query: "orcinus" ; Times: 1
+	Query: "Polynemus dubius" ; Times: 6
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "genus:mus specificepithet:caroli" ; Times: 2
+	Query: "Pisodonophis boro" ; Times: 6
+	Query: "Teixeirichthys jordani" ; Times: 6
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "otolithes ruber" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "signigobius biocellatus" ; Times: 2
+	Query: "genus:paguma" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Ambassis buruensis" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "Exocoetus volitans" ; Times: 6
+	Query: "eryx conicus india" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Cichlasoma bimaculatum" ; Times: 1
+	Query: "Cypselurus angusticeps" ; Times: 6
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Drombus globiceps" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "lepidozygus tapeinosoma" ; Times: 1
+	Query: "meuschenia trachylepis" ; Times: 2
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "Nemipterus bipunctatus" ; Times: 3
+	Query: "bunomys chrysocomus" ; Times: 11
+	Query: "Oligolepis acutipennis" ; Times: 3
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Setipinna tenuifilis" ; Times: 6
+	Query: "genus:hydromys country:indonesia" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "solor" ; Times: 1
+	Query: "Lepturacanthus savala" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 474 download events in this period)
+Total number of records downloaded: 258
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-10 ; Times: 10
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "bunomys chrysocomus" ; Times: 1
+	Query: "bunomys" ; Times: 2
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Sphenomorphus brunneus" ; Times: 1
+	Query: "locality:Sudest country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "morelia nauta" ; Times: 1
+
+
+End of report.

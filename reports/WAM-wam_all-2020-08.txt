@@ -1,0 +1,329 @@
+Report for Institution Code WAM, Resource wam_all
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 268
+Number of records retrieved in searches: 4129
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 74
+	Country: Australia ; Times: 19
+	Country: Honduras ; Times: 14
+	Country: Colombia ; Times: 4
+	Country: Portugal ; Times: 49
+	Country: South Africa ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 3
+	Country: Austria ; Times: 4
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 74
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-29 ; Times: 31
+	Date: 2020-08-17 ; Times: 6
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 6
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-10 ; Times: 51
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-18 ; Times: 15
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-03 ; Times: 7
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 11
+	Date: 2020-08-28 ; Times: 5
+	Date: 2020-08-07 ; Times: 7
+	Date: 2020-08-26 ; Times: 17
+	Date: 2020-08-09 ; Times: 4
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 80
+
+List of queries that retrieved data from the resource: 
+	Query: "pitta elegans" ; Times: 1
+	Query: "Rabor WAM" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Pyrrhula pyrrhula" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia guttata" ; Times: 1
+	Query: "Brama dussumieri" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "Girella sp" ; Times: 1
+	Query: "Ablennes hians" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "genus:Hyperoodon" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus adelaidae" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia cuneata" ; Times: 1
+	Query: "rhinolophus affinis" ; Times: 3
+	Query: "A2672" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua galerita" ; Times: 1
+	Query: "chameleon" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua sulphurea" ; Times: 1
+	Query: "Rostratula australis" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Anas rhynchotis" ; Times: 1
+	Query: "apteryx" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 4
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "hippocampus whitei" ; Times: 3
+	Query: "mappable:1 scientificname:Radjah radjah" ; Times: 1
+	Query: "specificepithet:rosacea genus:Ducula" ; Times: 3
+	Query: "mappable:1 scientificname:Cygnus atratus" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Ara ararauna" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula krameri" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "mappable:1 scientificname:Anas castanea" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "genus:Scartelaos" ; Times: 1
+	Query: "mappable:1 scientificname:Nymphicus hollandicus" ; Times: 1
+	Query: "Psammophilus" ; Times: 1
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "specificepithet:globiceps genus:Cetonurus" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "mappable:1 scientificname:Padda oryzivora" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura gouldiae" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 12
+	Query: "Hirundo neoxena" ; Times: 1
+	Query: "Cirrhitichthys oxycephalus" ; Times: 1
+	Query: "Heleia crassirostris" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia bichenovii" ; Times: 1
+	Query: "specificepithet:insolitus genus:Centrodraco" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava amandava" ; Times: 1
+	Query: "mappable:1 scientificname:Trionyx sinensis" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus zonarius" ; Times: 1
+	Query: "Batrachoides waltersi" ; Times: 1
+	Query: "mappable:1 scientificname:Neophema pulchella" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava subflava" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacus erithacus" ; Times: 1
+	Query: "genus:Centrodraco" ; Times: 3
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Verilus" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Sousa chinensis" ; Times: 3
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "mappable:1 scientificname:Chenonetta jubata" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia striata" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 7
+	Query: "specificepithet:lugubris genus:Chascanopsetta" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Timor Chalcophaps" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus eximius" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Otopteropus cartilagonodus" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 2
+	Query: "bunomys" ; Times: 3
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "caranx lugubris" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura punctulata" ; Times: 1
+	Query: "Acentronura" ; Times: 3
+	Query: "Motacilla alba" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Macaca maura" ; Times: 1
+	Query: "mappable:1 scientificname:Aplonis metallica" ; Times: 1
+	Query: "mappable:1 scientificname:Eos squamata" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus icterotis" ; Times: 1
+	Query: "Apalopteron familiare" ; Times: 1
+	Query: "Thunnus maccoyii" ; Times: 1
+	Query: "AMNH 7619" ; Times: 1
+	Query: "acentronura tentaculata" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "mappable:1 scientificname:Psephotus haematonotus" ; Times: 1
+	Query: "Raptors" ; Times: 3
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "genus:cyrtodactylus country:&#34;Solomon Islands&#34;" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "mappable:1 scientificname:Lathamus discolor" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "specificepithet:lepidogenys genus:Cataetyx" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "Eutropis carinata" ; Times: 1
+	Query: "mappable:1 scientificname:Todiramphus chloris" ; Times: 1
+	Query: "mappable:1 scientificname:Trichoglossus moluccanus" ; Times: 1
+	Query: "mappable:1 scientificname:Gracula religiosa" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "mappable:1 scientificname:Tadorna radjah" ; Times: 1
+	Query: "genus:Periophthalmodon" ; Times: 1
+	Query: "Lophozosterops dohertyi" ; Times: 5
+	Query: "genus:Myron" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 3
+	Query: "mappable:1 scientificname:Threskiornis molucca" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "mappable:1 scientificname:Neochmia ruficauda" ; Times: 1
+	Query: "hippocampus planifrons" ; Times: 7
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Pungitius platygaster" ; Times: 1
+	Query: "Acentronura country:&#34;Australia&#34;" ; Times: 1
+	Query: "Lophura ignita" ; Times: 1
+	Query: "A O Hume" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "mappable:1 scientificname:Tadorna variegata" ; Times: 1
+	Query: "mappable:1 scientificname:Cacatua goffini" ; Times: 1
+	Query: "scartelaos" ; Times: 1
+	Query: "Papio ursinus" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 4
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria coronata" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "genus:Goura" ; Times: 1
+	Query: "Psittacula roseata" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula eupatria" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Clyde Hill" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Sundamys" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "Cercopithecus mona" ; Times: 1
+	Query: "genus:Cetonurus" ; Times: 4
+	Query: "mappable:1 scientificname:Eclectus roratus" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 2
+	Query: "mappable:1 scientificname:Poephila acuticauda" ; Times: 1
+	Query: "mappable:1 scientificname:Cereopsis novaehollandiae" ; Times: 1
+	Query: "Platybelone argalus argalus" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 2
+	Query: "Brama japonica" ; Times: 3
+	Query: "Hydrophis platurus" ; Times: 5
+	Query: "Lalage tricolor" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "mappable:1 scientificname:Ocyphaps lophotes" ; Times: 1
+	Query: "narke" ; Times: 1
+	Query: "Phalacrocorax fuscescens" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 756 download events in this period)
+Total number of records downloaded: 46963
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: China ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-05 ; Times: 7
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 6
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Nyctimystes" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "alauda" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Litoria eucnemis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "order:Testudines" ; Times: 2
+	Query: "actinopterygii" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 4
+	Query: "Ochotona" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "litoria infrafrenata" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
